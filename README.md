@@ -1,5 +1,5 @@
-## University Recommendation System 
-The University Recommendation System is a comprehensive, AI-assisted Streamlit web application designed to help students navigate the complex process of higher education planning. 
+## BrainBridge 
+The BrainBridge is a comprehensive, AI-assisted Streamlit web application designed to help students navigate the complex process of higher education planning. 
 Built with a user-centric approach, this platform integrates multiple intelligent tools and modules to guide users through finding suitable universities, 
 exploring departments and courses, checking scholarships, comparing institutions, and preparing for career pathways—all within a unified interface.
 
