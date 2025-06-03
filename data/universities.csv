@@ -1,0 +1,301 @@
+university_id,university_name,location,ranking,specialization,image_path
+1,National Law School Delhi,Delhi,32,Management,images/university1.jpeg
+2,National Institute of Technology Bangalore,Bangalore,87,Medical,images/university1.jpeg
+3,Xavier Institute of Management Lucknow,Lucknow,5,Management,images/university1.jpeg
+4,All India Institute of Medical Sciences Mumbai,Mumbai,30,Engineering,images/university1.jpeg
+5,All India Institute of Medical Sciences Pune,Pune,92,Engineering,images/university1.jpeg
+6,University of Chennai,Chennai,76,Sports,images/university1.jpeg
+7,Indian Institute of Management Delhi,Delhi,90,Law,images/university1.jpeg
+8,National Law School Kolkata,Kolkata,20,Sports,images/university1.jpeg
+9,National Institute of Technology Kolkata,Kolkata,12,Medical,images/university1.jpeg
+10,National Institute of Fashion Technology Mumbai,Mumbai,45,Sports,images/university1.jpeg
+11,University of Delhi,Delhi,69,Law,images/university1.jpeg
+12,National Institute of Technology Bhopal,Bhopal,71,Management,images/university1.jpeg
+13,National Institute of Fashion Technology Lucknow,Lucknow,74,Law,images/university1.jpeg
+14,Indian Institute of Technology Mumbai,Mumbai,85,Medical,images/university1.jpeg
+15,National Institute of Technology Hyderabad,Hyderabad,30,Medical,images/university1.jpeg
+16,National Law School Bhopal,Bhopal,59,Management,images/university1.jpeg
+17,National Institute of Fashion Technology Bangalore,Bangalore,46,Fashion,images/university1.jpeg
+18,National Institute of Technology Hyderabad,Hyderabad,78,Medical,images/university1.jpeg
+19,All India Institute of Medical Sciences Pune,Pune,21,Design,images/university1.jpeg
+20,National Law School Bhopal,Bhopal,82,Science,images/university1.jpeg
+21,Indian Institute of Technology Kolkata,Kolkata,30,Medical,images/university1.jpeg
+22,Xavier Institute of Management Kolkata,Kolkata,35,Engineering,images/university1.jpeg
+23,National Institute of Fashion Technology Chennai,Chennai,28,Management,images/university1.jpeg
+24,University of Bhopal,Bhopal,19,Science,images/university1.jpeg
+25,All India Institute of Medical Sciences Bangalore,Bangalore,96,Law,images/university1.jpeg
+26,Xavier Institute of Management Lucknow,Lucknow,75,Law,images/university1.jpeg
+27,All India Institute of Medical Sciences Kolkata,Kolkata,18,Sports,images/university1.jpeg
+28,Indian Institute of Technology Mumbai,Mumbai,15,Science,images/university1.jpeg
+29,Xavier Institute of Management Bangalore,Bangalore,77,Design,images/university1.jpeg
+30,Xavier Institute of Management Bhopal,Bhopal,77,Management,images/university1.jpeg
+31,National Law School Pune,Pune,71,Science,images/university1.jpeg
+32,National Law School Mumbai,Mumbai,99,Engineering,images/university1.jpeg
+33,National Law School Mumbai,Mumbai,56,Fashion,images/university1.jpeg
+34,Indian Institute of Technology Jaipur,Jaipur,93,Design,images/university1.jpeg
+35,Indian Institute of Management Pune,Pune,65,Law,images/university1.jpeg
+36,All India Institute of Medical Sciences Hyderabad,Hyderabad,20,Management,images/university1.jpeg
+37,Indian Institute of Technology Bangalore,Bangalore,77,Fashion,images/university1.jpeg
+38,Indian Institute of Technology Jaipur,Jaipur,15,Fashion,images/university1.jpeg
+39,All India Institute of Medical Sciences Hyderabad,Hyderabad,8,Fashion,images/university1.jpeg
+40,National Institute of Technology Lucknow,Lucknow,11,Medical,images/university1.jpeg
+41,Indian Institute of Management Mumbai,Mumbai,17,Science,images/university1.jpeg
+42,Indian Institute of Management Pune,Pune,34,Science,images/university1.jpeg
+43,All India Institute of Medical Sciences Chennai,Chennai,92,Sports,images/university1.jpeg
+44,National Institute of Fashion Technology Bhopal,Bhopal,57,Law,images/university1.jpeg
+45,All India Institute of Medical Sciences Mumbai,Mumbai,29,Science,images/university1.jpeg
+46,Indian Institute of Technology Kolkata,Kolkata,76,Management,images/university1.jpeg
+47,All India Institute of Medical Sciences Lucknow,Lucknow,1,Medical,images/university1.jpeg
+48,All India Institute of Medical Sciences Delhi,Delhi,9,Management,images/university1.jpeg
+49,National Institute of Technology Kolkata,Kolkata,66,Engineering,images/university1.jpeg
+50,University of Hyderabad,Hyderabad,28,Medical,images/university1.jpeg
+51,University of Lucknow,Lucknow,32,Design,images/university1.jpeg
+52,All India Institute of Medical Sciences Bhopal,Bhopal,13,Science,images/university1.jpeg
+53,National Institute of Fashion Technology Bhopal,Bhopal,55,Management,images/university1.jpeg
+54,Indian Institute of Technology Jaipur,Jaipur,87,Sports,images/university1.jpeg
+55,Xavier Institute of Management Delhi,Delhi,94,Management,images/university1.jpeg
+56,All India Institute of Medical Sciences Mumbai,Mumbai,25,Fashion,images/university1.jpeg
+57,University of Pune,Pune,18,Medical,images/university1.jpeg
+58,National Law School Bangalore,Bangalore,60,Sports,images/university1.jpeg
+59,University of Mumbai,Mumbai,71,Medical,images/university1.jpeg
+60,Indian Institute of Technology Delhi,Delhi,12,Management,images/university1.jpeg
+61,Xavier Institute of Management Bangalore,Bangalore,63,Medical,images/university1.jpeg
+62,Xavier Institute of Management Chennai,Chennai,8,Science,images/university1.jpeg
+63,Indian Institute of Technology Bhopal,Bhopal,50,Design,images/university1.jpeg
+64,National Law School Jaipur,Jaipur,55,Law,images/university1.jpeg
+65,All India Institute of Medical Sciences Bangalore,Bangalore,38,Science,images/university1.jpeg
+66,Indian Institute of Technology Delhi,Delhi,96,Medical,images/university1.jpeg
+67,Indian Institute of Technology Delhi,Delhi,75,Fashion,images/university1.jpeg
+68,Indian Institute of Management Pune,Pune,8,Science,images/university1.jpeg
+69,National Institute of Technology Bangalore,Bangalore,77,Management,images/university1.jpeg
+70,Xavier Institute of Management Chennai,Chennai,16,Management,images/university1.jpeg
+71,Indian Institute of Technology Lucknow,Lucknow,80,Medical,images/university1.jpeg
+72,National Institute of Fashion Technology Bhopal,Bhopal,34,Management,images/university1.jpeg
+73,All India Institute of Medical Sciences Kolkata,Kolkata,34,Medical,images/university1.jpeg
+74,National Law School Bangalore,Bangalore,59,Sports,images/university1.jpeg
+75,Indian Institute of Technology Mumbai,Mumbai,59,Fashion,images/university1.jpeg
+76,All India Institute of Medical Sciences Mumbai,Mumbai,65,Management,images/university1.jpeg
+77,National Institute of Fashion Technology Bangalore,Bangalore,9,Law,images/university1.jpeg
+78,National Law School Kolkata,Kolkata,21,Medical,images/university1.jpeg
+79,National Law School Pune,Pune,79,Science,images/university1.jpeg
+80,National Law School Pune,Pune,85,Engineering,images/university1.jpeg
+81,National Law School Bangalore,Bangalore,15,Management,images/university1.jpeg
+82,Indian Institute of Management Pune,Pune,35,Management,images/university1.jpeg
+83,All India Institute of Medical Sciences Lucknow,Lucknow,92,Law,images/university1.jpeg
+84,National Law School Chennai,Chennai,65,Fashion,images/university1.jpeg
+85,Indian Institute of Technology Hyderabad,Hyderabad,12,Science,images/university1.jpeg
+86,Indian Institute of Technology Hyderabad,Hyderabad,1,Sports,images/university1.jpeg
+87,National Law School Bangalore,Bangalore,21,Fashion,images/university1.jpeg
+88,Xavier Institute of Management Pune,Pune,72,Science,images/university1.jpeg
+89,National Institute of Technology Mumbai,Mumbai,89,Engineering,images/university1.jpeg
+90,Indian Institute of Technology Pune,Pune,48,Design,images/university1.jpeg
+91,Indian Institute of Management Bhopal,Bhopal,6,Design,images/university1.jpeg
+92,Indian Institute of Technology Kolkata,Kolkata,46,Law,images/university1.jpeg
+93,National Institute of Technology Chennai,Chennai,46,Medical,images/university1.jpeg
+94,Indian Institute of Management Lucknow,Lucknow,31,Sports,images/university1.jpeg
+95,Xavier Institute of Management Bangalore,Bangalore,4,Design,images/university1.jpeg
+96,Xavier Institute of Management Kolkata,Kolkata,86,Design,images/university1.jpeg
+97,Indian Institute of Management Hyderabad,Hyderabad,90,Medical,images/university1.jpeg
+98,Indian Institute of Technology Bhopal,Bhopal,61,Management,images/university1.jpeg
+99,University of Chennai,Chennai,45,Medical,images/university1.jpeg
+100,All India Institute of Medical Sciences Chennai,Chennai,4,Law,images/university1.jpeg
+101,National Institute of Fashion Technology Bhopal,Bhopal,36,Medical,images/university1.jpeg
+102,National Institute of Fashion Technology Hyderabad,Hyderabad,83,Management,images/university1.jpeg
+103,National Institute of Fashion Technology Pune,Pune,4,Sports,images/university1.jpeg
+104,Indian Institute of Management Hyderabad,Hyderabad,75,Management,images/university1.jpeg
+105,National Institute of Technology Delhi,Delhi,77,Law,images/university1.jpeg
+106,National Institute of Fashion Technology Kolkata,Kolkata,56,Sports,images/university1.jpeg
+107,All India Institute of Medical Sciences Bhopal,Bhopal,33,Management,images/university1.jpeg
+108,Indian Institute of Technology Bhopal,Bhopal,67,Engineering,images/university1.jpeg
+109,Xavier Institute of Management Kolkata,Kolkata,9,Medical,images/university1.jpeg
+110,National Institute of Fashion Technology Lucknow,Lucknow,85,Fashion,images/university1.jpeg
+111,National Law School Hyderabad,Hyderabad,86,Management,images/university1.jpeg
+112,Xavier Institute of Management Kolkata,Kolkata,90,Sports,images/university1.jpeg
+113,Indian Institute of Management Pune,Pune,25,Law,images/university1.jpeg
+114,Indian Institute of Management Bhopal,Bhopal,79,Sports,images/university1.jpeg
+115,Indian Institute of Technology Bhopal,Bhopal,39,Law,images/university1.jpeg
+116,Xavier Institute of Management Chennai,Chennai,75,Law,images/university1.jpeg
+117,University of Jaipur,Jaipur,57,Fashion,images/university1.jpeg
+118,University of Pune,Pune,95,Medical,images/university1.jpeg
+119,National Law School Mumbai,Mumbai,66,Design,images/university1.jpeg
+120,All India Institute of Medical Sciences Mumbai,Mumbai,87,Fashion,images/university1.jpeg
+121,All India Institute of Medical Sciences Chennai,Chennai,19,Law,images/university1.jpeg
+122,All India Institute of Medical Sciences Delhi,Delhi,61,Engineering,images/university1.jpeg
+123,Xavier Institute of Management Jaipur,Jaipur,81,Management,images/university1.jpeg
+124,University of Bhopal,Bhopal,52,Medical,images/university1.jpeg
+125,Indian Institute of Technology Bangalore,Bangalore,97,Medical,images/university1.jpeg
+126,All India Institute of Medical Sciences Bhopal,Bhopal,23,Management,images/university1.jpeg
+127,All India Institute of Medical Sciences Delhi,Delhi,16,Science,images/university1.jpeg
+128,University of Bangalore,Bangalore,86,Science,images/university1.jpeg
+129,Xavier Institute of Management Jaipur,Jaipur,71,Fashion,images/university1.jpeg
+130,University of Bangalore,Bangalore,58,Science,images/university1.jpeg
+131,National Law School Chennai,Chennai,99,Law,images/university1.jpeg
+132,National Law School Chennai,Chennai,57,Science,images/university1.jpeg
+133,All India Institute of Medical Sciences Hyderabad,Hyderabad,35,Management,images/university1.jpeg
+134,National Institute of Technology Kolkata,Kolkata,18,Fashion,images/university1.jpeg
+135,Xavier Institute of Management Chennai,Chennai,89,Design,images/university1.jpeg
+136,National Institute of Technology Chennai,Chennai,54,Design,images/university1.jpeg
+137,University of Kolkata,Kolkata,54,Sports,images/university1.jpeg
+138,Xavier Institute of Management Chennai,Chennai,50,Engineering,images/university1.jpeg
+139,Xavier Institute of Management Lucknow,Lucknow,62,Engineering,images/university1.jpeg
+140,National Law School Kolkata,Kolkata,97,Engineering,images/university1.jpeg
+141,All India Institute of Medical Sciences Bhopal,Bhopal,63,Sports,images/university1.jpeg
+142,Xavier Institute of Management Hyderabad,Hyderabad,63,Medical,images/university1.jpeg
+143,National Institute of Fashion Technology Bhopal,Bhopal,86,Engineering,images/university1.jpeg
+144,University of Bangalore,Bangalore,17,Sports,images/university1.jpeg
+145,Indian Institute of Technology Bhopal,Bhopal,11,Engineering,images/university1.jpeg
+146,University of Bangalore,Bangalore,24,Sports,images/university1.jpeg
+147,Xavier Institute of Management Hyderabad,Hyderabad,42,Engineering,images/university1.jpeg
+148,National Institute of Fashion Technology Jaipur,Jaipur,44,Medical,images/university1.jpeg
+149,Xavier Institute of Management Hyderabad,Hyderabad,33,Sports,images/university1.jpeg
+150,Indian Institute of Technology Jaipur,Jaipur,96,Management,images/university1.jpeg
+151,All India Institute of Medical Sciences Kolkata,Kolkata,84,Engineering,images/university1.jpeg
+152,Indian Institute of Technology Delhi,Delhi,32,Management,images/university1.jpeg
+153,Indian Institute of Management Delhi,Delhi,31,Medical,images/university1.jpeg
+154,National Institute of Technology Jaipur,Jaipur,73,Design,images/university1.jpeg
+155,National Law School Jaipur,Jaipur,99,Medical,images/university1.jpeg
+156,National Institute of Technology Bangalore,Bangalore,100,Fashion,images/university1.jpeg
+157,National Institute of Technology Hyderabad,Hyderabad,75,Design,images/university1.jpeg
+158,Xavier Institute of Management Hyderabad,Hyderabad,51,Engineering,images/university1.jpeg
+159,All India Institute of Medical Sciences Mumbai,Mumbai,14,Medical,images/university1.jpeg
+160,National Institute of Technology Lucknow,Lucknow,73,Law,images/university1.jpeg
+161,Xavier Institute of Management Kolkata,Kolkata,85,Engineering,images/university1.jpeg
+162,National Institute of Fashion Technology Mumbai,Mumbai,2,Fashion,images/university1.jpeg
+163,National Institute of Technology Jaipur,Jaipur,56,Sports,images/university1.jpeg
+164,Indian Institute of Management Jaipur,Jaipur,56,Fashion,images/university1.jpeg
+165,National Law School Pune,Pune,79,Design,images/university1.jpeg
+166,Xavier Institute of Management Jaipur,Jaipur,94,Science,images/university1.jpeg
+167,All India Institute of Medical Sciences Kolkata,Kolkata,12,Law,images/university1.jpeg
+168,All India Institute of Medical Sciences Jaipur,Jaipur,97,Law,images/university1.jpeg
+169,Xavier Institute of Management Lucknow,Lucknow,44,Science,images/university1.jpeg
+170,National Institute of Fashion Technology Jaipur,Jaipur,24,Engineering,images/university1.jpeg
+171,National Institute of Fashion Technology Chennai,Chennai,34,Science,images/university1.jpeg
+172,National Law School Hyderabad,Hyderabad,72,Fashion,images/university1.jpeg
+173,All India Institute of Medical Sciences Pune,Pune,11,Engineering,images/university1.jpeg
+174,University of Bhopal,Bhopal,72,Medical,images/university1.jpeg
+175,University of Jaipur,Jaipur,58,Medical,images/university1.jpeg
+176,National Law School Mumbai,Mumbai,29,Engineering,images/university1.jpeg
+177,National Law School Chennai,Chennai,85,Sports,images/university1.jpeg
+178,National Institute of Fashion Technology Jaipur,Jaipur,55,Fashion,images/university1.jpeg
+179,University of Kolkata,Kolkata,35,Fashion,images/university1.jpeg
+180,All India Institute of Medical Sciences Hyderabad,Hyderabad,16,Law,images/university1.jpeg
+181,National Institute of Technology Kolkata,Kolkata,96,Medical,images/university1.jpeg
+182,All India Institute of Medical Sciences Chennai,Chennai,95,Design,images/university1.jpeg
+183,National Law School Hyderabad,Hyderabad,13,Science,images/university1.jpeg
+184,All India Institute of Medical Sciences Hyderabad,Hyderabad,47,Medical,images/university1.jpeg
+185,Indian Institute of Technology Hyderabad,Hyderabad,91,Design,images/university1.jpeg
+186,Indian Institute of Technology Hyderabad,Hyderabad,7,Design,images/university1.jpeg
+187,University of Bangalore,Bangalore,14,Law,images/university1.jpeg
+188,National Law School Lucknow,Lucknow,61,Engineering,images/university1.jpeg
+189,National Institute of Fashion Technology Jaipur,Jaipur,24,Science,images/university1.jpeg
+190,University of Hyderabad,Hyderabad,15,Engineering,images/university1.jpeg
+191,University of Bhopal,Bhopal,10,Management,images/university1.jpeg
+192,Indian Institute of Management Bangalore,Bangalore,73,Engineering,images/university1.jpeg
+193,All India Institute of Medical Sciences Mumbai,Mumbai,16,Law,images/university1.jpeg
+194,All India Institute of Medical Sciences Lucknow,Lucknow,100,Sports,images/university1.jpeg
+195,University of Jaipur,Jaipur,39,Sports,images/university1.jpeg
+196,Indian Institute of Technology Hyderabad,Hyderabad,79,Sports,images/university1.jpeg
+197,All India Institute of Medical Sciences Chennai,Chennai,34,Management,images/university1.jpeg
+198,All India Institute of Medical Sciences Bangalore,Bangalore,23,Management,images/university1.jpeg
+199,Indian Institute of Technology Bangalore,Bangalore,53,Management,images/university1.jpeg
+200,University of Lucknow,Lucknow,38,Science,images/university1.jpeg
+201,National Law School Chennai,Chennai,91,Engineering,images/university1.jpeg
+202,National Institute of Technology Jaipur,Jaipur,88,Law,images/university1.jpeg
+203,All India Institute of Medical Sciences Hyderabad,Hyderabad,55,Medical,images/university1.jpeg
+204,All India Institute of Medical Sciences Pune,Pune,83,Management,images/university1.jpeg
+205,Indian Institute of Management Hyderabad,Hyderabad,10,Design,images/university1.jpeg
+206,National Law School Bangalore,Bangalore,77,Engineering,images/university1.jpeg
+207,National Institute of Technology Jaipur,Jaipur,60,Law,images/university1.jpeg
+208,National Law School Bhopal,Bhopal,65,Law,images/university1.jpeg
+209,National Institute of Technology Jaipur,Jaipur,77,Science,images/university1.jpeg
+210,National Institute of Fashion Technology Bhopal,Bhopal,78,Engineering,images/university1.jpeg
+211,National Institute of Technology Delhi,Delhi,30,Law,images/university1.jpeg
+212,Indian Institute of Technology Hyderabad,Hyderabad,98,Engineering,images/university1.jpeg
+213,University of Jaipur,Jaipur,36,Design,images/university1.jpeg
+214,Xavier Institute of Management Lucknow,Lucknow,82,Design,images/university1.jpeg
+215,University of Mumbai,Mumbai,45,Science,images/university1.jpeg
+216,National Institute of Fashion Technology Kolkata,Kolkata,86,Sports,images/university1.jpeg
+217,National Institute of Fashion Technology Bangalore,Bangalore,53,Management,images/university1.jpeg
+218,Xavier Institute of Management Hyderabad,Hyderabad,98,Science,images/university1.jpeg
+219,National Institute of Technology Jaipur,Jaipur,41,Engineering,images/university1.jpeg
+220,National Institute of Technology Kolkata,Kolkata,99,Law,images/university1.jpeg
+221,Indian Institute of Technology Pune,Pune,85,Sports,images/university1.jpeg
+222,Indian Institute of Technology Bhopal,Bhopal,25,Science,images/university1.jpeg
+223,University of Lucknow,Lucknow,81,Fashion,images/university1.jpeg
+224,All India Institute of Medical Sciences Delhi,Delhi,35,Science,images/university1.jpeg
+225,University of Hyderabad,Hyderabad,90,Design,images/university1.jpeg
+226,Indian Institute of Technology Mumbai,Mumbai,81,Science,images/university1.jpeg
+227,National Law School Bangalore,Bangalore,71,Medical,images/university1.jpeg
+228,Xavier Institute of Management Pune,Pune,12,Engineering,images/university1.jpeg
+229,University of Mumbai,Mumbai,16,Medical,images/university1.jpeg
+230,National Law School Jaipur,Jaipur,66,Design,images/university1.jpeg
+231,University of Bhopal,Bhopal,61,Law,images/university1.jpeg
+232,Indian Institute of Management Jaipur,Jaipur,50,Medical,images/university1.jpeg
+233,Indian Institute of Management Lucknow,Lucknow,9,Medical,images/university1.jpeg
+234,National Institute of Fashion Technology Bhopal,Bhopal,65,Law,images/university1.jpeg
+235,National Law School Delhi,Delhi,93,Law,images/university1.jpeg
+236,University of Lucknow,Lucknow,20,Law,images/university1.jpeg
+237,University of Pune,Pune,45,Science,images/university1.jpeg
+238,Xavier Institute of Management Pune,Pune,59,Fashion,images/university1.jpeg
+239,All India Institute of Medical Sciences Chennai,Chennai,74,Fashion,images/university1.jpeg
+240,Xavier Institute of Management Chennai,Chennai,6,Sports,images/university1.jpeg
+241,Xavier Institute of Management Jaipur,Jaipur,50,Fashion,images/university1.jpeg
+242,Indian Institute of Technology Jaipur,Jaipur,17,Design,images/university1.jpeg
+243,University of Mumbai,Mumbai,13,Fashion,images/university1.jpeg
+244,Indian Institute of Management Delhi,Delhi,53,Science,images/university1.jpeg
+245,University of Mumbai,Mumbai,34,Design,images/university1.jpeg
+246,Xavier Institute of Management Lucknow,Lucknow,84,Fashion,images/university1.jpeg
+247,Xavier Institute of Management Kolkata,Kolkata,41,Management,images/university1.jpeg
+248,Indian Institute of Technology Pune,Pune,80,Science,images/university1.jpeg
+249,National Law School Chennai,Chennai,30,Management,images/university1.jpeg
+250,National Institute of Technology Bhopal,Bhopal,98,Management,images/university1.jpeg
+251,Indian Institute of Management Jaipur,Jaipur,89,Management,images/university1.jpeg
+252,Indian Institute of Technology Delhi,Delhi,42,Law,images/university1.jpeg
+253,National Institute of Fashion Technology Hyderabad,Hyderabad,48,Engineering,images/university1.jpeg
+254,All India Institute of Medical Sciences Bangalore,Bangalore,68,Sports,images/university1.jpeg
+255,Indian Institute of Management Lucknow,Lucknow,22,Sports,images/university1.jpeg
+256,Xavier Institute of Management Mumbai,Mumbai,80,Design,images/university1.jpeg
+257,Indian Institute of Management Jaipur,Jaipur,30,Medical,images/university1.jpeg
+258,University of Hyderabad,Hyderabad,33,Science,images/university1.jpeg
+259,National Law School Jaipur,Jaipur,87,Engineering,images/university1.jpeg
+260,University of Mumbai,Mumbai,45,Design,images/university1.jpeg
+261,National Law School Bhopal,Bhopal,59,Law,images/university1.jpeg
+262,Xavier Institute of Management Chennai,Chennai,62,Law,images/university1.jpeg
+263,Xavier Institute of Management Chennai,Chennai,74,Management,images/university1.jpeg
+264,National Law School Lucknow,Lucknow,90,Fashion,images/university1.jpeg
+265,Xavier Institute of Management Delhi,Delhi,36,Law,images/university1.jpeg
+266,Indian Institute of Technology Lucknow,Lucknow,78,Engineering,images/university1.jpeg
+267,All India Institute of Medical Sciences Hyderabad,Hyderabad,78,Science,images/university1.jpeg
+268,All India Institute of Medical Sciences Chennai,Chennai,80,Fashion,images/university1.jpeg
+269,National Institute of Technology Bangalore,Bangalore,81,Law,images/university1.jpeg
+270,University of Hyderabad,Hyderabad,5,Engineering,images/university1.jpeg
+271,National Institute of Technology Bangalore,Bangalore,38,Fashion,images/university1.jpeg
+272,Indian Institute of Management Bhopal,Bhopal,26,Fashion,images/university1.jpeg
+273,National Institute of Fashion Technology Pune,Pune,68,Design,images/university1.jpeg
+274,National Law School Bangalore,Bangalore,62,Law,images/university1.jpeg
+275,National Institute of Technology Kolkata,Kolkata,60,Law,images/university1.jpeg
+276,All India Institute of Medical Sciences Bangalore,Bangalore,87,Management,images/university1.jpeg
+277,National Institute of Fashion Technology Pune,Pune,12,Sports,images/university1.jpeg
+278,National Law School Delhi,Delhi,69,Sports,images/university1.jpeg
+279,National Institute of Fashion Technology Jaipur,Jaipur,87,Management,images/university1.jpeg
+280,Xavier Institute of Management Lucknow,Lucknow,82,Law,images/university1.jpeg
+281,All India Institute of Medical Sciences Mumbai,Mumbai,61,Fashion,images/university1.jpeg
+282,National Institute of Fashion Technology Lucknow,Lucknow,79,Engineering,images/university1.jpeg
+283,University of Mumbai,Mumbai,90,Medical,images/university1.jpeg
+284,National Institute of Technology Bhopal,Bhopal,18,Law,images/university1.jpeg
+285,National Law School Delhi,Delhi,64,Engineering,images/university1.jpeg
+286,All India Institute of Medical Sciences Mumbai,Mumbai,69,Management,images/university1.jpeg
+287,University of Bhopal,Bhopal,48,Design,images/university1.jpeg
+288,Indian Institute of Management Lucknow,Lucknow,54,Sports,images/university1.jpeg
+289,Xavier Institute of Management Jaipur,Jaipur,36,Management,images/university1.jpeg
+290,All India Institute of Medical Sciences Kolkata,Kolkata,57,Engineering,images/university1.jpeg
+291,National Institute of Fashion Technology Chennai,Chennai,13,Science,images/university1.jpeg
+292,National Institute of Fashion Technology Pune,Pune,8,Fashion,images/university1.jpeg
+293,All India Institute of Medical Sciences Hyderabad,Hyderabad,16,Sports,images/university1.jpeg
+294,All India Institute of Medical Sciences Mumbai,Mumbai,83,Science,images/university1.jpeg
+295,National Institute of Fashion Technology Delhi,Delhi,32,Engineering,images/university1.jpeg
+296,All India Institute of Medical Sciences Lucknow,Lucknow,9,Design,images/university1.jpeg
+297,All India Institute of Medical Sciences Lucknow,Lucknow,30,Medical,images/university1.jpeg
+298,Indian Institute of Technology Bangalore,Bangalore,36,Fashion,images/university1.jpeg
+299,National Law School Bangalore,Bangalore,23,Design,images/university1.jpeg
+300,Indian Institute of Management Delhi,Delhi,2,Management,images/university1.jpeg

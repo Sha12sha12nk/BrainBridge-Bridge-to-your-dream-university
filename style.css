@@ -1,0 +1,45 @@
+/* Main background styling */
+.stApp {
+    background-color: #f5f7fa;
+}
+
+/* Header styling */
+h1, h2, h3 {
+    color: #1fc2d7;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #2980b9;
+}
+
+/* Container styling */
+.stContainer {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Sidebar styling */
+.stSidebar {
+    background-color: #1fc2d7;
+    color: white;
+}
+
+/* Expander styling */
+.stExpander {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}

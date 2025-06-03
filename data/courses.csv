@@ -1,0 +1,1090 @@
+course_id,department_id,course_title,subject,level,price,num_subscribers
+1,1,MBA in Finance,MBA in Finance,Postgraduate,143911,3735
+2,2,MBA in Marketing,MBA in Marketing,Postgraduate,112372,2911
+3,2,MBA in Digital Marketing,MBA in Marketing,Postgraduate,134874,564
+4,3,MBA in Business Analytics,Business Analytics,Postgraduate,95677,1586
+5,4,MBBS,MBBS,Postgraduate,63736,1019
+6,5,B.Pharm,Pharmacy,Undergraduate,244436,2224
+7,5,M.Pharm,Pharmacy,Postgraduate,187910,965
+8,6,MBA in Finance,MBA in Finance,Postgraduate,245471,760
+9,7,MBA in Marketing,MBA in Marketing,Postgraduate,174845,2336
+10,7,MBA in Digital Marketing,MBA in Marketing,Postgraduate,144906,2602
+11,8,MBA in Business Analytics,Business Analytics,Postgraduate,205625,946
+12,9,B.Tech in CS,Computer Science,Undergraduate,168490,2563
+13,9,M.Tech in AI,Computer Science,Postgraduate,108077,3019
+14,9,B.Sc in Data Science,Computer Science,Undergraduate,61367,3478
+15,10,B.Tech in ECE,Electronics Engineering,Undergraduate,222727,2635
+16,10,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,129070,2376
+17,11,B.Tech in ME,Mechanical Engineering,Undergraduate,218647,627
+18,11,M.Tech in Thermal,Mechanical Engineering,Postgraduate,65945,2461
+19,12,B.Tech in CS,Computer Science,Undergraduate,155281,2246
+20,12,M.Tech in AI,Computer Science,Postgraduate,229856,942
+21,12,B.Sc in Data Science,Computer Science,Undergraduate,178521,3417
+22,13,B.Tech in ECE,Electronics Engineering,Undergraduate,166277,801
+23,13,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,71178,1819
+24,14,B.Tech in ME,Mechanical Engineering,Undergraduate,209461,1107
+25,14,M.Tech in Thermal,Mechanical Engineering,Postgraduate,67218,1016
+26,15,B.Sc in Sports Science,Sports Science,Undergraduate,122093,3057
+27,16,B.P.Ed,Physical Education,Undergraduate,215957,2897
+28,17,LLB,LLB,Postgraduate,193748,3416
+29,18,PG Diploma in Cyber Law,Cyber Law,Postgraduate,135245,2060
+30,19,B.Sc in Sports Science,Sports Science,Undergraduate,206602,2673
+31,20,B.P.Ed,Physical Education,Undergraduate,127305,2358
+32,21,MBBS,MBBS,Postgraduate,182527,2979
+33,22,B.Pharm,Pharmacy,Undergraduate,162774,906
+34,22,M.Pharm,Pharmacy,Postgraduate,233967,968
+35,23,B.Sc in Sports Science,Sports Science,Undergraduate,221629,3166
+36,24,B.P.Ed,Physical Education,Undergraduate,194529,3452
+37,25,LLB,LLB,Postgraduate,106367,2261
+38,26,PG Diploma in Cyber Law,Cyber Law,Postgraduate,168372,1435
+39,27,MBA in Finance,MBA in Finance,Postgraduate,158478,1888
+40,28,MBA in Marketing,MBA in Marketing,Postgraduate,168882,2133
+41,28,MBA in Digital Marketing,MBA in Marketing,Postgraduate,159049,3488
+42,29,MBA in Business Analytics,Business Analytics,Postgraduate,74926,1780
+43,30,LLB,LLB,Postgraduate,161873,1780
+44,31,PG Diploma in Cyber Law,Cyber Law,Postgraduate,224354,1544
+45,32,MBBS,MBBS,Postgraduate,148120,1125
+46,33,B.Pharm,Pharmacy,Undergraduate,230046,2442
+47,33,M.Pharm,Pharmacy,Postgraduate,67598,873
+48,34,MBBS,MBBS,Postgraduate,72377,881
+49,35,B.Pharm,Pharmacy,Undergraduate,163213,895
+50,35,M.Pharm,Pharmacy,Postgraduate,245189,3526
+51,36,MBA in Finance,MBA in Finance,Postgraduate,147687,3825
+52,37,MBA in Marketing,MBA in Marketing,Postgraduate,84108,2778
+53,37,MBA in Digital Marketing,MBA in Marketing,Postgraduate,65723,2902
+54,38,MBA in Business Analytics,Business Analytics,Postgraduate,197216,2800
+55,39,B.Des in Fashion Design,Fashion Design,Undergraduate,136414,3244
+56,39,M.Des in Fashion Design,Fashion Design,Postgraduate,82042,2182
+57,40,B.Des in Textile Design,Textile Design,Undergraduate,142693,3225
+58,41,MBBS,MBBS,Postgraduate,246682,2232
+59,42,B.Pharm,Pharmacy,Undergraduate,239021,710
+60,42,M.Pharm,Pharmacy,Postgraduate,125400,2959
+61,43,B.Des in Graphic Design,Graphic Design,Undergraduate,131906,1940
+62,43,M.Des in Graphic Design,Graphic Design,Postgraduate,77158,2867
+63,44,B.Des in UX Design,UX Design,Undergraduate,183015,1371
+64,44,M.Des in UX Design,UX Design,Postgraduate,90561,3189
+65,45,B.Sc in Physics,Physics,Undergraduate,176403,1418
+66,45,M.Sc in Physics,Physics,Postgraduate,78368,1934
+67,46,B.Sc in Biology,Biology,Undergraduate,195821,2005
+68,47,B.Sc in Chemistry,Chemistry,Undergraduate,80116,3623
+69,48,MBBS,MBBS,Postgraduate,123024,2851
+70,49,B.Pharm,Pharmacy,Undergraduate,109286,3806
+71,49,M.Pharm,Pharmacy,Postgraduate,162489,3961
+72,50,B.Tech in CS,Computer Science,Undergraduate,197053,3643
+73,50,M.Tech in AI,Computer Science,Postgraduate,212981,3013
+74,50,B.Sc in Data Science,Computer Science,Undergraduate,226941,3132
+75,51,B.Tech in ECE,Electronics Engineering,Undergraduate,195945,607
+76,51,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,209644,3194
+77,52,B.Tech in ME,Mechanical Engineering,Undergraduate,231789,1595
+78,52,M.Tech in Thermal,Mechanical Engineering,Postgraduate,57589,1238
+79,53,MBA in Finance,MBA in Finance,Postgraduate,121636,3378
+80,54,MBA in Marketing,MBA in Marketing,Postgraduate,249861,1765
+81,54,MBA in Digital Marketing,MBA in Marketing,Postgraduate,139082,1937
+82,55,MBA in Business Analytics,Business Analytics,Postgraduate,51600,1243
+83,56,B.Sc in Physics,Physics,Undergraduate,87552,2819
+84,56,M.Sc in Physics,Physics,Postgraduate,222318,2141
+85,57,B.Sc in Biology,Biology,Undergraduate,68241,1081
+86,58,B.Sc in Chemistry,Chemistry,Undergraduate,244240,3093
+87,59,LLB,LLB,Postgraduate,58036,875
+88,60,PG Diploma in Cyber Law,Cyber Law,Postgraduate,245588,2672
+89,61,LLB,LLB,Postgraduate,106395,2040
+90,62,PG Diploma in Cyber Law,Cyber Law,Postgraduate,160056,2358
+91,63,B.Sc in Sports Science,Sports Science,Undergraduate,139363,1144
+92,64,B.P.Ed,Physical Education,Undergraduate,147007,1776
+93,65,B.Sc in Physics,Physics,Undergraduate,239162,1828
+94,65,M.Sc in Physics,Physics,Postgraduate,198791,2942
+95,66,B.Sc in Biology,Biology,Undergraduate,72270,715
+96,67,B.Sc in Chemistry,Chemistry,Undergraduate,90784,1144
+97,68,B.Des in Graphic Design,Graphic Design,Undergraduate,247770,3030
+98,68,M.Des in Graphic Design,Graphic Design,Postgraduate,63044,3260
+99,69,B.Des in UX Design,UX Design,Undergraduate,71386,1614
+100,69,M.Des in UX Design,UX Design,Postgraduate,166159,3211
+101,70,MBA in Finance,MBA in Finance,Postgraduate,161152,2489
+102,71,MBA in Marketing,MBA in Marketing,Postgraduate,209141,2310
+103,71,MBA in Digital Marketing,MBA in Marketing,Postgraduate,158575,1618
+104,72,MBA in Business Analytics,Business Analytics,Postgraduate,106510,3592
+105,73,B.Sc in Physics,Physics,Undergraduate,184308,966
+106,73,M.Sc in Physics,Physics,Postgraduate,140484,2260
+107,74,B.Sc in Biology,Biology,Undergraduate,79069,1660
+108,75,B.Sc in Chemistry,Chemistry,Undergraduate,227790,3279
+109,76,B.Tech in CS,Computer Science,Undergraduate,205486,2493
+110,76,M.Tech in AI,Computer Science,Postgraduate,188132,3232
+111,76,B.Sc in Data Science,Computer Science,Undergraduate,130850,686
+112,77,B.Tech in ECE,Electronics Engineering,Undergraduate,107807,2118
+113,77,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,207109,724
+114,78,B.Tech in ME,Mechanical Engineering,Undergraduate,52015,1337
+115,78,M.Tech in Thermal,Mechanical Engineering,Postgraduate,129015,1365
+116,79,B.Des in Fashion Design,Fashion Design,Undergraduate,85975,3630
+117,79,M.Des in Fashion Design,Fashion Design,Postgraduate,116982,1685
+118,80,B.Des in Textile Design,Textile Design,Undergraduate,136015,991
+119,81,B.Des in Graphic Design,Graphic Design,Undergraduate,52026,2537
+120,81,M.Des in Graphic Design,Graphic Design,Postgraduate,245825,2263
+121,82,B.Des in UX Design,UX Design,Undergraduate,96057,1029
+122,82,M.Des in UX Design,UX Design,Postgraduate,149669,2681
+123,83,LLB,LLB,Postgraduate,234463,1442
+124,84,PG Diploma in Cyber Law,Cyber Law,Postgraduate,181140,2788
+125,85,MBA in Finance,MBA in Finance,Postgraduate,225124,3802
+126,86,MBA in Marketing,MBA in Marketing,Postgraduate,142842,795
+127,86,MBA in Digital Marketing,MBA in Marketing,Postgraduate,154089,3539
+128,87,MBA in Business Analytics,Business Analytics,Postgraduate,61089,2286
+129,88,B.Des in Fashion Design,Fashion Design,Undergraduate,54912,2383
+130,88,M.Des in Fashion Design,Fashion Design,Postgraduate,70411,1782
+131,89,B.Des in Textile Design,Textile Design,Undergraduate,200931,2258
+132,90,B.Des in Fashion Design,Fashion Design,Undergraduate,200313,2156
+133,90,M.Des in Fashion Design,Fashion Design,Postgraduate,235990,3122
+134,91,B.Des in Textile Design,Textile Design,Undergraduate,159495,1685
+135,92,B.Des in Fashion Design,Fashion Design,Undergraduate,80192,2159
+136,92,M.Des in Fashion Design,Fashion Design,Postgraduate,55467,1830
+137,93,B.Des in Textile Design,Textile Design,Undergraduate,95055,3782
+138,94,MBBS,MBBS,Postgraduate,212037,2384
+139,95,B.Pharm,Pharmacy,Undergraduate,230777,1982
+140,95,M.Pharm,Pharmacy,Postgraduate,73102,2288
+141,96,B.Sc in Physics,Physics,Undergraduate,77751,1496
+142,96,M.Sc in Physics,Physics,Postgraduate,164209,2912
+143,97,B.Sc in Biology,Biology,Undergraduate,154975,2646
+144,98,B.Sc in Chemistry,Chemistry,Undergraduate,70616,2121
+145,99,B.Sc in Physics,Physics,Undergraduate,131336,3554
+146,99,M.Sc in Physics,Physics,Postgraduate,139001,1407
+147,100,B.Sc in Biology,Biology,Undergraduate,137311,3691
+148,101,B.Sc in Chemistry,Chemistry,Undergraduate,94074,812
+149,102,B.Sc in Sports Science,Sports Science,Undergraduate,183820,3093
+150,103,B.P.Ed,Physical Education,Undergraduate,79891,2673
+151,104,LLB,LLB,Postgraduate,183680,1294
+152,105,PG Diploma in Cyber Law,Cyber Law,Postgraduate,141586,1938
+153,106,B.Sc in Physics,Physics,Undergraduate,240678,3854
+154,106,M.Sc in Physics,Physics,Postgraduate,219199,3838
+155,107,B.Sc in Biology,Biology,Undergraduate,88716,1467
+156,108,B.Sc in Chemistry,Chemistry,Undergraduate,76949,1099
+157,109,MBA in Finance,MBA in Finance,Postgraduate,117100,1308
+158,110,MBA in Marketing,MBA in Marketing,Postgraduate,95481,2967
+159,110,MBA in Digital Marketing,MBA in Marketing,Postgraduate,90073,3613
+160,111,MBA in Business Analytics,Business Analytics,Postgraduate,249007,3184
+161,112,MBBS,MBBS,Postgraduate,69753,1225
+162,113,B.Pharm,Pharmacy,Undergraduate,214613,2523
+163,113,M.Pharm,Pharmacy,Postgraduate,171622,3590
+164,114,MBA in Finance,MBA in Finance,Postgraduate,197779,3612
+165,115,MBA in Marketing,MBA in Marketing,Postgraduate,201904,2338
+166,115,MBA in Digital Marketing,MBA in Marketing,Postgraduate,228555,2812
+167,116,MBA in Business Analytics,Business Analytics,Postgraduate,218556,3102
+168,117,B.Tech in CS,Computer Science,Undergraduate,213714,1823
+169,117,M.Tech in AI,Computer Science,Postgraduate,214421,1794
+170,117,B.Sc in Data Science,Computer Science,Undergraduate,89572,2301
+171,118,B.Tech in ECE,Electronics Engineering,Undergraduate,67900,2420
+172,118,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,165922,3086
+173,119,B.Tech in ME,Mechanical Engineering,Undergraduate,129382,3761
+174,119,M.Tech in Thermal,Mechanical Engineering,Postgraduate,122004,2922
+175,120,MBBS,MBBS,Postgraduate,64725,1941
+176,121,B.Pharm,Pharmacy,Undergraduate,182995,803
+177,121,M.Pharm,Pharmacy,Postgraduate,131371,2391
+178,122,B.Des in Graphic Design,Graphic Design,Undergraduate,168466,654
+179,122,M.Des in Graphic Design,Graphic Design,Postgraduate,64913,2010
+180,123,B.Des in UX Design,UX Design,Undergraduate,125255,814
+181,123,M.Des in UX Design,UX Design,Postgraduate,218995,869
+182,124,B.Sc in Physics,Physics,Undergraduate,211220,2933
+183,124,M.Sc in Physics,Physics,Postgraduate,182924,2074
+184,125,B.Sc in Biology,Biology,Undergraduate,171297,2877
+185,126,B.Sc in Chemistry,Chemistry,Undergraduate,195310,3743
+186,127,MBA in Finance,MBA in Finance,Postgraduate,243703,668
+187,128,MBA in Marketing,MBA in Marketing,Postgraduate,167894,3817
+188,128,MBA in Digital Marketing,MBA in Marketing,Postgraduate,199856,3169
+189,129,MBA in Business Analytics,Business Analytics,Postgraduate,99345,1816
+190,130,B.Sc in Sports Science,Sports Science,Undergraduate,208598,2448
+191,131,B.P.Ed,Physical Education,Undergraduate,181430,1117
+192,132,MBA in Finance,MBA in Finance,Postgraduate,66219,2345
+193,133,MBA in Marketing,MBA in Marketing,Postgraduate,77132,3821
+194,133,MBA in Digital Marketing,MBA in Marketing,Postgraduate,140030,3425
+195,134,MBA in Business Analytics,Business Analytics,Postgraduate,72106,2566
+196,135,B.Des in Fashion Design,Fashion Design,Undergraduate,219378,1206
+197,135,M.Des in Fashion Design,Fashion Design,Postgraduate,60260,1514
+198,136,B.Des in Textile Design,Textile Design,Undergraduate,235498,2293
+199,137,MBBS,MBBS,Postgraduate,165191,2646
+200,138,B.Pharm,Pharmacy,Undergraduate,187035,2997
+201,138,M.Pharm,Pharmacy,Postgraduate,91614,1990
+202,139,B.Sc in Sports Science,Sports Science,Undergraduate,147740,1658
+203,140,B.P.Ed,Physical Education,Undergraduate,151558,2174
+204,141,MBBS,MBBS,Postgraduate,138700,3280
+205,142,B.Pharm,Pharmacy,Undergraduate,206732,714
+206,142,M.Pharm,Pharmacy,Postgraduate,215383,3151
+207,143,MBA in Finance,MBA in Finance,Postgraduate,137726,769
+208,144,MBA in Marketing,MBA in Marketing,Postgraduate,136426,887
+209,144,MBA in Digital Marketing,MBA in Marketing,Postgraduate,196266,3278
+210,145,MBA in Business Analytics,Business Analytics,Postgraduate,151335,1663
+211,146,MBBS,MBBS,Postgraduate,116059,3464
+212,147,B.Pharm,Pharmacy,Undergraduate,222114,2968
+213,147,M.Pharm,Pharmacy,Postgraduate,89419,1865
+214,148,B.Sc in Physics,Physics,Undergraduate,71365,2886
+215,148,M.Sc in Physics,Physics,Postgraduate,223961,1079
+216,149,B.Sc in Biology,Biology,Undergraduate,141703,1770
+217,150,B.Sc in Chemistry,Chemistry,Undergraduate,221980,3360
+218,151,B.Des in Graphic Design,Graphic Design,Undergraduate,223574,2105
+219,151,M.Des in Graphic Design,Graphic Design,Postgraduate,83803,2937
+220,152,B.Des in UX Design,UX Design,Undergraduate,235816,847
+221,152,M.Des in UX Design,UX Design,Postgraduate,131155,2789
+222,153,LLB,LLB,Postgraduate,148744,3135
+223,154,PG Diploma in Cyber Law,Cyber Law,Postgraduate,136108,3830
+224,155,B.Sc in Physics,Physics,Undergraduate,83500,3244
+225,155,M.Sc in Physics,Physics,Postgraduate,234242,3895
+226,156,B.Sc in Biology,Biology,Undergraduate,243665,3307
+227,157,B.Sc in Chemistry,Chemistry,Undergraduate,187990,882
+228,158,MBBS,MBBS,Postgraduate,219351,3246
+229,159,B.Pharm,Pharmacy,Undergraduate,160993,2582
+230,159,M.Pharm,Pharmacy,Postgraduate,144851,574
+231,160,B.Des in Fashion Design,Fashion Design,Undergraduate,145052,1765
+232,160,M.Des in Fashion Design,Fashion Design,Postgraduate,97254,1377
+233,161,B.Des in Textile Design,Textile Design,Undergraduate,139583,3638
+234,162,B.Sc in Physics,Physics,Undergraduate,177473,1286
+235,162,M.Sc in Physics,Physics,Postgraduate,109386,1063
+236,163,B.Sc in Biology,Biology,Undergraduate,90617,816
+237,164,B.Sc in Chemistry,Chemistry,Undergraduate,127540,3958
+238,165,MBA in Finance,MBA in Finance,Postgraduate,76513,2579
+239,166,MBA in Marketing,MBA in Marketing,Postgraduate,191497,3920
+240,166,MBA in Digital Marketing,MBA in Marketing,Postgraduate,243631,2656
+241,167,MBA in Business Analytics,Business Analytics,Postgraduate,59895,3211
+242,168,MBA in Finance,MBA in Finance,Postgraduate,138280,3638
+243,169,MBA in Marketing,MBA in Marketing,Postgraduate,212013,1036
+244,169,MBA in Digital Marketing,MBA in Marketing,Postgraduate,206564,2043
+245,170,MBA in Business Analytics,Business Analytics,Postgraduate,90436,1164
+246,171,MBBS,MBBS,Postgraduate,97407,3905
+247,172,B.Pharm,Pharmacy,Undergraduate,231625,3658
+248,172,M.Pharm,Pharmacy,Postgraduate,213771,3813
+249,173,MBA in Finance,MBA in Finance,Postgraduate,93395,3453
+250,174,MBA in Marketing,MBA in Marketing,Postgraduate,164733,678
+251,174,MBA in Digital Marketing,MBA in Marketing,Postgraduate,157704,1992
+252,175,MBA in Business Analytics,Business Analytics,Postgraduate,227304,3447
+253,176,MBBS,MBBS,Postgraduate,112267,2319
+254,177,B.Pharm,Pharmacy,Undergraduate,210063,1667
+255,177,M.Pharm,Pharmacy,Postgraduate,247234,3566
+256,178,B.Sc in Sports Science,Sports Science,Undergraduate,167683,1458
+257,179,B.P.Ed,Physical Education,Undergraduate,189987,1479
+258,180,B.Des in Fashion Design,Fashion Design,Undergraduate,131125,3812
+259,180,M.Des in Fashion Design,Fashion Design,Postgraduate,172949,3920
+260,181,B.Des in Textile Design,Textile Design,Undergraduate,100860,2006
+261,182,MBA in Finance,MBA in Finance,Postgraduate,227814,2836
+262,183,MBA in Marketing,MBA in Marketing,Postgraduate,165499,2391
+263,183,MBA in Digital Marketing,MBA in Marketing,Postgraduate,123864,3687
+264,184,MBA in Business Analytics,Business Analytics,Postgraduate,150105,2559
+265,185,LLB,LLB,Postgraduate,188270,2214
+266,186,PG Diploma in Cyber Law,Cyber Law,Postgraduate,92482,3845
+267,187,MBBS,MBBS,Postgraduate,102349,3781
+268,188,B.Pharm,Pharmacy,Undergraduate,208508,1066
+269,188,M.Pharm,Pharmacy,Postgraduate,115536,713
+270,189,B.Sc in Physics,Physics,Undergraduate,218081,2468
+271,189,M.Sc in Physics,Physics,Postgraduate,147311,2771
+272,190,B.Sc in Biology,Biology,Undergraduate,76893,3413
+273,191,B.Sc in Chemistry,Chemistry,Undergraduate,185242,3986
+274,192,B.Tech in CS,Computer Science,Undergraduate,82683,1667
+275,192,M.Tech in AI,Computer Science,Postgraduate,71987,3625
+276,192,B.Sc in Data Science,Computer Science,Undergraduate,92024,1617
+277,193,B.Tech in ECE,Electronics Engineering,Undergraduate,167786,2602
+278,193,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,88626,3903
+279,194,B.Tech in ME,Mechanical Engineering,Undergraduate,164680,875
+280,194,M.Tech in Thermal,Mechanical Engineering,Postgraduate,108205,3845
+281,195,MBA in Finance,MBA in Finance,Postgraduate,168260,1931
+282,196,MBA in Marketing,MBA in Marketing,Postgraduate,56991,2199
+283,196,MBA in Digital Marketing,MBA in Marketing,Postgraduate,63960,2123
+284,197,MBA in Business Analytics,Business Analytics,Postgraduate,181598,2031
+285,198,MBA in Finance,MBA in Finance,Postgraduate,111807,2081
+286,199,MBA in Marketing,MBA in Marketing,Postgraduate,71392,2035
+287,199,MBA in Digital Marketing,MBA in Marketing,Postgraduate,108861,615
+288,200,MBA in Business Analytics,Business Analytics,Postgraduate,133541,905
+289,201,LLB,LLB,Postgraduate,237355,3162
+290,202,PG Diploma in Cyber Law,Cyber Law,Postgraduate,137894,3741
+291,203,B.Des in Fashion Design,Fashion Design,Undergraduate,88285,1063
+292,203,M.Des in Fashion Design,Fashion Design,Postgraduate,60040,1675
+293,204,B.Des in Textile Design,Textile Design,Undergraduate,173851,3351
+294,205,B.Sc in Physics,Physics,Undergraduate,86383,3608
+295,205,M.Sc in Physics,Physics,Postgraduate,234952,2421
+296,206,B.Sc in Biology,Biology,Undergraduate,167598,3020
+297,207,B.Sc in Chemistry,Chemistry,Undergraduate,51376,824
+298,208,B.Sc in Sports Science,Sports Science,Undergraduate,54981,1548
+299,209,B.P.Ed,Physical Education,Undergraduate,106532,3920
+300,210,B.Des in Fashion Design,Fashion Design,Undergraduate,89195,2747
+301,210,M.Des in Fashion Design,Fashion Design,Postgraduate,240640,2993
+302,211,B.Des in Textile Design,Textile Design,Undergraduate,188352,2233
+303,212,B.Sc in Physics,Physics,Undergraduate,79146,3679
+304,212,M.Sc in Physics,Physics,Postgraduate,125524,1473
+305,213,B.Sc in Biology,Biology,Undergraduate,128944,999
+306,214,B.Sc in Chemistry,Chemistry,Undergraduate,62517,1476
+307,215,B.Tech in CS,Computer Science,Undergraduate,160054,3117
+308,215,M.Tech in AI,Computer Science,Postgraduate,213266,2372
+309,215,B.Sc in Data Science,Computer Science,Undergraduate,66464,954
+310,216,B.Tech in ECE,Electronics Engineering,Undergraduate,181027,2944
+311,216,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,190523,567
+312,217,B.Tech in ME,Mechanical Engineering,Undergraduate,215663,2610
+313,217,M.Tech in Thermal,Mechanical Engineering,Postgraduate,200745,1490
+314,218,B.Des in Graphic Design,Graphic Design,Undergraduate,238362,1088
+315,218,M.Des in Graphic Design,Graphic Design,Postgraduate,126355,2258
+316,219,B.Des in UX Design,UX Design,Undergraduate,50410,3018
+317,219,M.Des in UX Design,UX Design,Postgraduate,142488,1485
+318,220,B.Des in Graphic Design,Graphic Design,Undergraduate,199596,2206
+319,220,M.Des in Graphic Design,Graphic Design,Postgraduate,99103,3221
+320,221,B.Des in UX Design,UX Design,Undergraduate,225168,850
+321,221,M.Des in UX Design,UX Design,Postgraduate,187228,1977
+322,222,LLB,LLB,Postgraduate,67741,2654
+323,223,PG Diploma in Cyber Law,Cyber Law,Postgraduate,192627,2578
+324,224,MBBS,MBBS,Postgraduate,183070,2769
+325,225,B.Pharm,Pharmacy,Undergraduate,55330,2099
+326,225,M.Pharm,Pharmacy,Postgraduate,173243,678
+327,226,B.Sc in Sports Science,Sports Science,Undergraduate,216637,2084
+328,227,B.P.Ed,Physical Education,Undergraduate,147858,1538
+329,228,B.Des in Graphic Design,Graphic Design,Undergraduate,245904,566
+330,228,M.Des in Graphic Design,Graphic Design,Postgraduate,143610,3729
+331,229,B.Des in UX Design,UX Design,Undergraduate,67710,1912
+332,229,M.Des in UX Design,UX Design,Postgraduate,113209,3502
+333,230,B.Des in Graphic Design,Graphic Design,Undergraduate,222255,3073
+334,230,M.Des in Graphic Design,Graphic Design,Postgraduate,77174,3660
+335,231,B.Des in UX Design,UX Design,Undergraduate,202542,3511
+336,231,M.Des in UX Design,UX Design,Postgraduate,248358,1861
+337,232,MBBS,MBBS,Postgraduate,84972,681
+338,233,B.Pharm,Pharmacy,Undergraduate,142353,2736
+339,233,M.Pharm,Pharmacy,Postgraduate,138748,3832
+340,234,MBA in Finance,MBA in Finance,Postgraduate,218505,1217
+341,235,MBA in Marketing,MBA in Marketing,Postgraduate,229485,2403
+342,235,MBA in Digital Marketing,MBA in Marketing,Postgraduate,232292,2460
+343,236,MBA in Business Analytics,Business Analytics,Postgraduate,215605,1246
+344,237,MBBS,MBBS,Postgraduate,85350,758
+345,238,B.Pharm,Pharmacy,Undergraduate,237706,3679
+346,238,M.Pharm,Pharmacy,Postgraduate,169977,651
+347,239,LLB,LLB,Postgraduate,126924,1325
+348,240,PG Diploma in Cyber Law,Cyber Law,Postgraduate,61483,3740
+349,241,MBBS,MBBS,Postgraduate,102289,671
+350,242,B.Pharm,Pharmacy,Undergraduate,132731,1770
+351,242,M.Pharm,Pharmacy,Postgraduate,185104,2131
+352,243,MBA in Finance,MBA in Finance,Postgraduate,192352,2439
+353,244,MBA in Marketing,MBA in Marketing,Postgraduate,116404,649
+354,244,MBA in Digital Marketing,MBA in Marketing,Postgraduate,247470,3149
+355,245,MBA in Business Analytics,Business Analytics,Postgraduate,100096,1671
+356,246,B.Sc in Sports Science,Sports Science,Undergraduate,143578,3698
+357,247,B.P.Ed,Physical Education,Undergraduate,62531,3185
+358,248,MBA in Finance,MBA in Finance,Postgraduate,137012,1619
+359,249,MBA in Marketing,MBA in Marketing,Postgraduate,82630,3774
+360,249,MBA in Digital Marketing,MBA in Marketing,Postgraduate,146474,2289
+361,250,MBA in Business Analytics,Business Analytics,Postgraduate,154863,3544
+362,251,LLB,LLB,Postgraduate,165274,2083
+363,252,PG Diploma in Cyber Law,Cyber Law,Postgraduate,138876,1265
+364,253,B.Sc in Sports Science,Sports Science,Undergraduate,180076,3334
+365,254,B.P.Ed,Physical Education,Undergraduate,180422,2004
+366,255,MBA in Finance,MBA in Finance,Postgraduate,186125,1592
+367,256,MBA in Marketing,MBA in Marketing,Postgraduate,71656,3478
+368,256,MBA in Digital Marketing,MBA in Marketing,Postgraduate,161280,823
+369,257,MBA in Business Analytics,Business Analytics,Postgraduate,162881,2967
+370,258,B.Tech in CS,Computer Science,Undergraduate,97305,2734
+371,258,M.Tech in AI,Computer Science,Postgraduate,127009,1815
+372,258,B.Sc in Data Science,Computer Science,Undergraduate,76895,827
+373,259,B.Tech in ECE,Electronics Engineering,Undergraduate,135962,3207
+374,259,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,127500,1755
+375,260,B.Tech in ME,Mechanical Engineering,Undergraduate,166894,2968
+376,260,M.Tech in Thermal,Mechanical Engineering,Postgraduate,238131,2245
+377,261,MBBS,MBBS,Postgraduate,93684,3325
+378,262,B.Pharm,Pharmacy,Undergraduate,166367,1939
+379,262,M.Pharm,Pharmacy,Postgraduate,167212,673
+380,263,B.Des in Fashion Design,Fashion Design,Undergraduate,240530,1944
+381,263,M.Des in Fashion Design,Fashion Design,Postgraduate,211179,2281
+382,264,B.Des in Textile Design,Textile Design,Undergraduate,121973,3119
+383,265,MBA in Finance,MBA in Finance,Postgraduate,65036,807
+384,266,MBA in Marketing,MBA in Marketing,Postgraduate,225946,3111
+385,266,MBA in Digital Marketing,MBA in Marketing,Postgraduate,156485,1988
+386,267,MBA in Business Analytics,Business Analytics,Postgraduate,184502,3781
+387,268,B.Sc in Sports Science,Sports Science,Undergraduate,246581,3282
+388,269,B.P.Ed,Physical Education,Undergraduate,91939,627
+389,270,LLB,LLB,Postgraduate,87428,3976
+390,271,PG Diploma in Cyber Law,Cyber Law,Postgraduate,209271,3277
+391,272,B.Sc in Sports Science,Sports Science,Undergraduate,164864,642
+392,273,B.P.Ed,Physical Education,Undergraduate,83090,775
+393,274,LLB,LLB,Postgraduate,111864,3688
+394,275,PG Diploma in Cyber Law,Cyber Law,Postgraduate,219125,2000
+395,276,LLB,LLB,Postgraduate,144935,2068
+396,277,PG Diploma in Cyber Law,Cyber Law,Postgraduate,198699,632
+397,278,B.Des in Fashion Design,Fashion Design,Undergraduate,208621,1128
+398,278,M.Des in Fashion Design,Fashion Design,Postgraduate,228012,2342
+399,279,B.Des in Textile Design,Textile Design,Undergraduate,147246,2023
+400,280,MBBS,MBBS,Postgraduate,166376,3625
+401,281,B.Pharm,Pharmacy,Undergraduate,70155,2850
+402,281,M.Pharm,Pharmacy,Postgraduate,86095,2668
+403,282,B.Des in Graphic Design,Graphic Design,Undergraduate,146193,2130
+404,282,M.Des in Graphic Design,Graphic Design,Postgraduate,132414,3160
+405,283,B.Des in UX Design,UX Design,Undergraduate,123056,1522
+406,283,M.Des in UX Design,UX Design,Postgraduate,79739,606
+407,284,B.Des in Fashion Design,Fashion Design,Undergraduate,242852,1262
+408,284,M.Des in Fashion Design,Fashion Design,Postgraduate,180821,2620
+409,285,B.Des in Textile Design,Textile Design,Undergraduate,151446,2800
+410,286,LLB,LLB,Postgraduate,80870,1572
+411,287,PG Diploma in Cyber Law,Cyber Law,Postgraduate,118233,3383
+412,288,B.Tech in CS,Computer Science,Undergraduate,166987,1378
+413,288,M.Tech in AI,Computer Science,Postgraduate,210399,1669
+414,288,B.Sc in Data Science,Computer Science,Undergraduate,231922,2511
+415,289,B.Tech in ECE,Electronics Engineering,Undergraduate,102475,1002
+416,289,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,85580,3993
+417,290,B.Tech in ME,Mechanical Engineering,Undergraduate,69412,2351
+418,290,M.Tech in Thermal,Mechanical Engineering,Postgraduate,95260,3421
+419,291,MBA in Finance,MBA in Finance,Postgraduate,166683,859
+420,292,MBA in Marketing,MBA in Marketing,Postgraduate,228763,3963
+421,292,MBA in Digital Marketing,MBA in Marketing,Postgraduate,133778,3235
+422,293,MBA in Business Analytics,Business Analytics,Postgraduate,141075,3406
+423,294,MBBS,MBBS,Postgraduate,67023,2752
+424,295,B.Pharm,Pharmacy,Undergraduate,192126,1689
+425,295,M.Pharm,Pharmacy,Postgraduate,128631,3987
+426,296,MBBS,MBBS,Postgraduate,91289,3415
+427,297,B.Pharm,Pharmacy,Undergraduate,236007,3368
+428,297,M.Pharm,Pharmacy,Postgraduate,217169,1213
+429,298,MBA in Finance,MBA in Finance,Postgraduate,144763,2583
+430,299,MBA in Marketing,MBA in Marketing,Postgraduate,108783,997
+431,299,MBA in Digital Marketing,MBA in Marketing,Postgraduate,102685,3744
+432,300,MBA in Business Analytics,Business Analytics,Postgraduate,86405,1469
+433,301,B.Sc in Physics,Physics,Undergraduate,179504,607
+434,301,M.Sc in Physics,Physics,Postgraduate,144606,2769
+435,302,B.Sc in Biology,Biology,Undergraduate,200019,2011
+436,303,B.Sc in Chemistry,Chemistry,Undergraduate,172527,3791
+437,304,B.Sc in Physics,Physics,Undergraduate,194610,1031
+438,304,M.Sc in Physics,Physics,Postgraduate,210418,853
+439,305,B.Sc in Biology,Biology,Undergraduate,67235,1766
+440,306,B.Sc in Chemistry,Chemistry,Undergraduate,154375,3436
+441,307,B.Des in Fashion Design,Fashion Design,Undergraduate,238447,2460
+442,307,M.Des in Fashion Design,Fashion Design,Postgraduate,187807,2182
+443,308,B.Des in Textile Design,Textile Design,Undergraduate,157330,3872
+444,309,B.Sc in Physics,Physics,Undergraduate,200706,802
+445,309,M.Sc in Physics,Physics,Postgraduate,82853,1798
+446,310,B.Sc in Biology,Biology,Undergraduate,218385,803
+447,311,B.Sc in Chemistry,Chemistry,Undergraduate,167958,2408
+448,312,LLB,LLB,Postgraduate,228286,2619
+449,313,PG Diploma in Cyber Law,Cyber Law,Postgraduate,140312,1025
+450,314,B.Sc in Physics,Physics,Undergraduate,194520,3120
+451,314,M.Sc in Physics,Physics,Postgraduate,204084,1245
+452,315,B.Sc in Biology,Biology,Undergraduate,83825,2272
+453,316,B.Sc in Chemistry,Chemistry,Undergraduate,181822,726
+454,317,MBA in Finance,MBA in Finance,Postgraduate,82548,2622
+455,318,MBA in Marketing,MBA in Marketing,Postgraduate,90112,1745
+456,318,MBA in Digital Marketing,MBA in Marketing,Postgraduate,93163,1163
+457,319,MBA in Business Analytics,Business Analytics,Postgraduate,134583,3405
+458,320,B.Des in Fashion Design,Fashion Design,Undergraduate,109105,1917
+459,320,M.Des in Fashion Design,Fashion Design,Postgraduate,186025,1663
+460,321,B.Des in Textile Design,Textile Design,Undergraduate,70672,1526
+461,322,B.Des in Graphic Design,Graphic Design,Undergraduate,101459,3101
+462,322,M.Des in Graphic Design,Graphic Design,Postgraduate,194399,1624
+463,323,B.Des in UX Design,UX Design,Undergraduate,82812,3060
+464,323,M.Des in UX Design,UX Design,Postgraduate,129383,3016
+465,324,B.Des in Graphic Design,Graphic Design,Undergraduate,189848,882
+466,324,M.Des in Graphic Design,Graphic Design,Postgraduate,181746,3125
+467,325,B.Des in UX Design,UX Design,Undergraduate,94206,2924
+468,325,M.Des in UX Design,UX Design,Postgraduate,202212,1131
+469,326,B.Sc in Sports Science,Sports Science,Undergraduate,94879,3198
+470,327,B.P.Ed,Physical Education,Undergraduate,213703,3451
+471,328,B.Tech in CS,Computer Science,Undergraduate,208633,1882
+472,328,M.Tech in AI,Computer Science,Postgraduate,197749,668
+473,328,B.Sc in Data Science,Computer Science,Undergraduate,57437,832
+474,329,B.Tech in ECE,Electronics Engineering,Undergraduate,61917,3127
+475,329,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,201197,1584
+476,330,B.Tech in ME,Mechanical Engineering,Undergraduate,220689,1363
+477,330,M.Tech in Thermal,Mechanical Engineering,Postgraduate,199982,2206
+478,331,B.Tech in CS,Computer Science,Undergraduate,212033,3117
+479,331,M.Tech in AI,Computer Science,Postgraduate,57939,2539
+480,331,B.Sc in Data Science,Computer Science,Undergraduate,214407,2734
+481,332,B.Tech in ECE,Electronics Engineering,Undergraduate,125935,3129
+482,332,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,129192,2478
+483,333,B.Tech in ME,Mechanical Engineering,Undergraduate,114193,3796
+484,333,M.Tech in Thermal,Mechanical Engineering,Postgraduate,229566,2163
+485,334,B.Tech in CS,Computer Science,Undergraduate,127970,2357
+486,334,M.Tech in AI,Computer Science,Postgraduate,69129,3320
+487,334,B.Sc in Data Science,Computer Science,Undergraduate,65705,1147
+488,335,B.Tech in ECE,Electronics Engineering,Undergraduate,165239,2202
+489,335,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,176943,2402
+490,336,B.Tech in ME,Mechanical Engineering,Undergraduate,103483,1893
+491,336,M.Tech in Thermal,Mechanical Engineering,Postgraduate,209032,1088
+492,337,B.Sc in Sports Science,Sports Science,Undergraduate,131941,3442
+493,338,B.P.Ed,Physical Education,Undergraduate,133706,3507
+494,339,MBBS,MBBS,Postgraduate,140536,2133
+495,340,B.Pharm,Pharmacy,Undergraduate,84279,3615
+496,340,M.Pharm,Pharmacy,Postgraduate,147134,2609
+497,341,B.Tech in CS,Computer Science,Undergraduate,197233,934
+498,341,M.Tech in AI,Computer Science,Postgraduate,133654,1490
+499,341,B.Sc in Data Science,Computer Science,Undergraduate,172282,1001
+500,342,B.Tech in ECE,Electronics Engineering,Undergraduate,120116,2341
+501,342,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,114990,1077
+502,343,B.Tech in ME,Mechanical Engineering,Undergraduate,75378,707
+503,343,M.Tech in Thermal,Mechanical Engineering,Postgraduate,126077,2073
+504,344,B.Sc in Sports Science,Sports Science,Undergraduate,211317,2212
+505,345,B.P.Ed,Physical Education,Undergraduate,115082,1154
+506,346,B.Tech in CS,Computer Science,Undergraduate,135835,2866
+507,346,M.Tech in AI,Computer Science,Postgraduate,239039,1780
+508,346,B.Sc in Data Science,Computer Science,Undergraduate,99763,3625
+509,347,B.Tech in ECE,Electronics Engineering,Undergraduate,91770,2540
+510,347,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,184932,2412
+511,348,B.Tech in ME,Mechanical Engineering,Undergraduate,180746,1763
+512,348,M.Tech in Thermal,Mechanical Engineering,Postgraduate,180382,594
+513,349,B.Sc in Sports Science,Sports Science,Undergraduate,73605,2110
+514,350,B.P.Ed,Physical Education,Undergraduate,182499,2372
+515,351,B.Tech in CS,Computer Science,Undergraduate,113105,1381
+516,351,M.Tech in AI,Computer Science,Postgraduate,202920,1945
+517,351,B.Sc in Data Science,Computer Science,Undergraduate,62755,707
+518,352,B.Tech in ECE,Electronics Engineering,Undergraduate,123755,2527
+519,352,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,206635,3952
+520,353,B.Tech in ME,Mechanical Engineering,Undergraduate,221510,3254
+521,353,M.Tech in Thermal,Mechanical Engineering,Postgraduate,173361,1670
+522,354,MBBS,MBBS,Postgraduate,190690,533
+523,355,B.Pharm,Pharmacy,Undergraduate,78179,2265
+524,355,M.Pharm,Pharmacy,Postgraduate,85110,1583
+525,356,B.Sc in Sports Science,Sports Science,Undergraduate,240711,1998
+526,357,B.P.Ed,Physical Education,Undergraduate,155710,1998
+527,358,MBA in Finance,MBA in Finance,Postgraduate,61860,2140
+528,359,MBA in Marketing,MBA in Marketing,Postgraduate,63410,2835
+529,359,MBA in Digital Marketing,MBA in Marketing,Postgraduate,197276,1297
+530,360,MBA in Business Analytics,Business Analytics,Postgraduate,145033,2766
+531,361,B.Tech in CS,Computer Science,Undergraduate,125655,801
+532,361,M.Tech in AI,Computer Science,Postgraduate,151279,2565
+533,361,B.Sc in Data Science,Computer Science,Undergraduate,168057,3630
+534,362,B.Tech in ECE,Electronics Engineering,Undergraduate,194141,1645
+535,362,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,213379,3286
+536,363,B.Tech in ME,Mechanical Engineering,Undergraduate,210181,986
+537,363,M.Tech in Thermal,Mechanical Engineering,Postgraduate,83728,896
+538,364,MBA in Finance,MBA in Finance,Postgraduate,153259,2028
+539,365,MBA in Marketing,MBA in Marketing,Postgraduate,138889,2784
+540,365,MBA in Digital Marketing,MBA in Marketing,Postgraduate,145841,3592
+541,366,MBA in Business Analytics,Business Analytics,Postgraduate,87818,1315
+542,367,MBBS,MBBS,Postgraduate,207932,2585
+543,368,B.Pharm,Pharmacy,Undergraduate,155221,2548
+544,368,M.Pharm,Pharmacy,Postgraduate,60552,685
+545,369,B.Des in Graphic Design,Graphic Design,Undergraduate,60201,1061
+546,369,M.Des in Graphic Design,Graphic Design,Postgraduate,237063,1864
+547,370,B.Des in UX Design,UX Design,Undergraduate,174189,2627
+548,370,M.Des in UX Design,UX Design,Postgraduate,169796,1110
+549,371,MBBS,MBBS,Postgraduate,208927,2611
+550,372,B.Pharm,Pharmacy,Undergraduate,86642,1843
+551,372,M.Pharm,Pharmacy,Postgraduate,210712,1804
+552,373,B.Des in Fashion Design,Fashion Design,Undergraduate,92598,2109
+553,373,M.Des in Fashion Design,Fashion Design,Postgraduate,211611,3528
+554,374,B.Des in Textile Design,Textile Design,Undergraduate,128442,2931
+555,375,B.Des in Graphic Design,Graphic Design,Undergraduate,138178,2577
+556,375,M.Des in Graphic Design,Graphic Design,Postgraduate,183618,2680
+557,376,B.Des in UX Design,UX Design,Undergraduate,178410,3402
+558,376,M.Des in UX Design,UX Design,Postgraduate,197567,1727
+559,377,B.Tech in CS,Computer Science,Undergraduate,174490,3841
+560,377,M.Tech in AI,Computer Science,Postgraduate,54361,2008
+561,377,B.Sc in Data Science,Computer Science,Undergraduate,136832,3259
+562,378,B.Tech in ECE,Electronics Engineering,Undergraduate,78732,2206
+563,378,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,203014,1760
+564,379,B.Tech in ME,Mechanical Engineering,Undergraduate,240139,3318
+565,379,M.Tech in Thermal,Mechanical Engineering,Postgraduate,214956,609
+566,380,MBBS,MBBS,Postgraduate,206476,2443
+567,381,B.Pharm,Pharmacy,Undergraduate,119607,3185
+568,381,M.Pharm,Pharmacy,Postgraduate,201643,2865
+569,382,LLB,LLB,Postgraduate,109649,3454
+570,383,PG Diploma in Cyber Law,Cyber Law,Postgraduate,63462,2890
+571,384,B.Tech in CS,Computer Science,Undergraduate,175946,1198
+572,384,M.Tech in AI,Computer Science,Postgraduate,187424,3076
+573,384,B.Sc in Data Science,Computer Science,Undergraduate,239053,3038
+574,385,B.Tech in ECE,Electronics Engineering,Undergraduate,149664,1105
+575,385,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,228448,1492
+576,386,B.Tech in ME,Mechanical Engineering,Undergraduate,58276,2845
+577,386,M.Tech in Thermal,Mechanical Engineering,Postgraduate,233637,950
+578,387,B.Des in Fashion Design,Fashion Design,Undergraduate,100012,577
+579,387,M.Des in Fashion Design,Fashion Design,Postgraduate,165615,1784
+580,388,B.Des in Textile Design,Textile Design,Undergraduate,159780,1120
+581,389,B.Sc in Sports Science,Sports Science,Undergraduate,158255,3328
+582,390,B.P.Ed,Physical Education,Undergraduate,103448,2180
+583,391,B.Des in Fashion Design,Fashion Design,Undergraduate,181548,3674
+584,391,M.Des in Fashion Design,Fashion Design,Postgraduate,210295,2431
+585,392,B.Des in Textile Design,Textile Design,Undergraduate,242895,3479
+586,393,B.Des in Graphic Design,Graphic Design,Undergraduate,66326,3390
+587,393,M.Des in Graphic Design,Graphic Design,Postgraduate,86197,2624
+588,394,B.Des in UX Design,UX Design,Undergraduate,104353,2797
+589,394,M.Des in UX Design,UX Design,Postgraduate,135209,3212
+590,395,B.Sc in Physics,Physics,Undergraduate,175402,2652
+591,395,M.Sc in Physics,Physics,Postgraduate,148782,1785
+592,396,B.Sc in Biology,Biology,Undergraduate,95398,2382
+593,397,B.Sc in Chemistry,Chemistry,Undergraduate,189756,1902
+594,398,LLB,LLB,Postgraduate,193202,1951
+595,399,PG Diploma in Cyber Law,Cyber Law,Postgraduate,227174,3662
+596,400,LLB,LLB,Postgraduate,238986,3288
+597,401,PG Diploma in Cyber Law,Cyber Law,Postgraduate,218639,3791
+598,402,B.Sc in Physics,Physics,Undergraduate,231747,1582
+599,402,M.Sc in Physics,Physics,Postgraduate,209927,2483
+600,403,B.Sc in Biology,Biology,Undergraduate,100400,1509
+601,404,B.Sc in Chemistry,Chemistry,Undergraduate,123139,2785
+602,405,B.Tech in CS,Computer Science,Undergraduate,128249,1421
+603,405,M.Tech in AI,Computer Science,Postgraduate,128017,3658
+604,405,B.Sc in Data Science,Computer Science,Undergraduate,125760,3387
+605,406,B.Tech in ECE,Electronics Engineering,Undergraduate,104336,3327
+606,406,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,234808,2502
+607,407,B.Tech in ME,Mechanical Engineering,Undergraduate,133110,2465
+608,407,M.Tech in Thermal,Mechanical Engineering,Postgraduate,141436,2795
+609,408,B.Sc in Physics,Physics,Undergraduate,239179,1620
+610,408,M.Sc in Physics,Physics,Postgraduate,125442,999
+611,409,B.Sc in Biology,Biology,Undergraduate,200333,3271
+612,410,B.Sc in Chemistry,Chemistry,Undergraduate,192394,2055
+613,411,B.Des in Fashion Design,Fashion Design,Undergraduate,153424,3852
+614,411,M.Des in Fashion Design,Fashion Design,Postgraduate,140474,3666
+615,412,B.Des in Textile Design,Textile Design,Undergraduate,88397,1689
+616,413,B.Tech in CS,Computer Science,Undergraduate,61027,1678
+617,413,M.Tech in AI,Computer Science,Postgraduate,237207,823
+618,413,B.Sc in Data Science,Computer Science,Undergraduate,140797,2311
+619,414,B.Tech in ECE,Electronics Engineering,Undergraduate,221959,1550
+620,414,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,245910,2462
+621,415,B.Tech in ME,Mechanical Engineering,Undergraduate,106095,1327
+622,415,M.Tech in Thermal,Mechanical Engineering,Postgraduate,191184,1610
+623,416,MBBS,MBBS,Postgraduate,197329,3351
+624,417,B.Pharm,Pharmacy,Undergraduate,121203,1062
+625,417,M.Pharm,Pharmacy,Postgraduate,78633,3021
+626,418,MBBS,MBBS,Postgraduate,244220,2903
+627,419,B.Pharm,Pharmacy,Undergraduate,112726,1493
+628,419,M.Pharm,Pharmacy,Postgraduate,63307,3243
+629,420,B.Tech in CS,Computer Science,Undergraduate,189209,1424
+630,420,M.Tech in AI,Computer Science,Postgraduate,217233,1453
+631,420,B.Sc in Data Science,Computer Science,Undergraduate,63760,910
+632,421,B.Tech in ECE,Electronics Engineering,Undergraduate,158344,1852
+633,421,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,238051,2434
+634,422,B.Tech in ME,Mechanical Engineering,Undergraduate,76357,3290
+635,422,M.Tech in Thermal,Mechanical Engineering,Postgraduate,86036,521
+636,423,B.Sc in Sports Science,Sports Science,Undergraduate,194271,1146
+637,424,B.P.Ed,Physical Education,Undergraduate,156668,3174
+638,425,B.Des in Fashion Design,Fashion Design,Undergraduate,174701,2455
+639,425,M.Des in Fashion Design,Fashion Design,Postgraduate,220534,1316
+640,426,B.Des in Textile Design,Textile Design,Undergraduate,248157,1676
+641,427,B.Des in Fashion Design,Fashion Design,Undergraduate,134192,1669
+642,427,M.Des in Fashion Design,Fashion Design,Postgraduate,219318,742
+643,428,B.Des in Textile Design,Textile Design,Undergraduate,73451,3171
+644,429,LLB,LLB,Postgraduate,200505,1451
+645,430,PG Diploma in Cyber Law,Cyber Law,Postgraduate,190286,3525
+646,431,MBBS,MBBS,Postgraduate,239560,3982
+647,432,B.Pharm,Pharmacy,Undergraduate,59777,1217
+648,432,M.Pharm,Pharmacy,Postgraduate,159546,3930
+649,433,B.Des in Graphic Design,Graphic Design,Undergraduate,96081,648
+650,433,M.Des in Graphic Design,Graphic Design,Postgraduate,154069,3727
+651,434,B.Des in UX Design,UX Design,Undergraduate,179861,1263
+652,434,M.Des in UX Design,UX Design,Postgraduate,246346,1685
+653,435,B.Sc in Physics,Physics,Undergraduate,59821,537
+654,435,M.Sc in Physics,Physics,Postgraduate,128221,2826
+655,436,B.Sc in Biology,Biology,Undergraduate,208015,939
+656,437,B.Sc in Chemistry,Chemistry,Undergraduate,137829,1665
+657,438,MBBS,MBBS,Postgraduate,169104,3126
+658,439,B.Pharm,Pharmacy,Undergraduate,192422,2647
+659,439,M.Pharm,Pharmacy,Postgraduate,179476,1049
+660,440,B.Des in Graphic Design,Graphic Design,Undergraduate,182176,2417
+661,440,M.Des in Graphic Design,Graphic Design,Postgraduate,121522,1289
+662,441,B.Des in UX Design,UX Design,Undergraduate,79529,1854
+663,441,M.Des in UX Design,UX Design,Postgraduate,92596,3494
+664,442,B.Des in Graphic Design,Graphic Design,Undergraduate,170301,3155
+665,442,M.Des in Graphic Design,Graphic Design,Postgraduate,117440,3443
+666,443,B.Des in UX Design,UX Design,Undergraduate,98810,557
+667,443,M.Des in UX Design,UX Design,Postgraduate,243099,1880
+668,444,LLB,LLB,Postgraduate,127338,2825
+669,445,PG Diploma in Cyber Law,Cyber Law,Postgraduate,226790,3601
+670,446,B.Tech in CS,Computer Science,Undergraduate,100636,1218
+671,446,M.Tech in AI,Computer Science,Postgraduate,210158,3116
+672,446,B.Sc in Data Science,Computer Science,Undergraduate,156296,3887
+673,447,B.Tech in ECE,Electronics Engineering,Undergraduate,162119,2610
+674,447,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,135964,855
+675,448,B.Tech in ME,Mechanical Engineering,Undergraduate,155076,3241
+676,448,M.Tech in Thermal,Mechanical Engineering,Postgraduate,75004,1256
+677,449,B.Sc in Physics,Physics,Undergraduate,86860,2455
+678,449,M.Sc in Physics,Physics,Postgraduate,134830,1516
+679,450,B.Sc in Biology,Biology,Undergraduate,51790,1568
+680,451,B.Sc in Chemistry,Chemistry,Undergraduate,150551,1464
+681,452,B.Tech in CS,Computer Science,Undergraduate,167109,3587
+682,452,M.Tech in AI,Computer Science,Postgraduate,119990,1850
+683,452,B.Sc in Data Science,Computer Science,Undergraduate,129153,2885
+684,453,B.Tech in ECE,Electronics Engineering,Undergraduate,239499,2846
+685,453,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,52997,1571
+686,454,B.Tech in ME,Mechanical Engineering,Undergraduate,221359,1972
+687,454,M.Tech in Thermal,Mechanical Engineering,Postgraduate,231605,1467
+688,455,MBA in Finance,MBA in Finance,Postgraduate,66285,3235
+689,456,MBA in Marketing,MBA in Marketing,Postgraduate,80991,2406
+690,456,MBA in Digital Marketing,MBA in Marketing,Postgraduate,130427,1154
+691,457,MBA in Business Analytics,Business Analytics,Postgraduate,156277,3310
+692,458,B.Tech in CS,Computer Science,Undergraduate,181732,3381
+693,458,M.Tech in AI,Computer Science,Postgraduate,131521,3327
+694,458,B.Sc in Data Science,Computer Science,Undergraduate,80779,3116
+695,459,B.Tech in ECE,Electronics Engineering,Undergraduate,127342,2005
+696,459,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,211120,1404
+697,460,B.Tech in ME,Mechanical Engineering,Undergraduate,107443,1047
+698,460,M.Tech in Thermal,Mechanical Engineering,Postgraduate,175352,1127
+699,461,LLB,LLB,Postgraduate,169269,3562
+700,462,PG Diploma in Cyber Law,Cyber Law,Postgraduate,208790,2030
+701,463,B.Sc in Sports Science,Sports Science,Undergraduate,159011,3375
+702,464,B.P.Ed,Physical Education,Undergraduate,193978,2428
+703,465,B.Sc in Sports Science,Sports Science,Undergraduate,248534,2701
+704,466,B.P.Ed,Physical Education,Undergraduate,224088,3881
+705,467,B.Sc in Sports Science,Sports Science,Undergraduate,107255,3620
+706,468,B.P.Ed,Physical Education,Undergraduate,114871,3286
+707,469,MBA in Finance,MBA in Finance,Postgraduate,247850,2940
+708,470,MBA in Marketing,MBA in Marketing,Postgraduate,71461,2652
+709,470,MBA in Digital Marketing,MBA in Marketing,Postgraduate,167112,2663
+710,471,MBA in Business Analytics,Business Analytics,Postgraduate,234488,1981
+711,472,MBA in Finance,MBA in Finance,Postgraduate,70474,2810
+712,473,MBA in Marketing,MBA in Marketing,Postgraduate,79414,752
+713,473,MBA in Digital Marketing,MBA in Marketing,Postgraduate,193562,2570
+714,474,MBA in Business Analytics,Business Analytics,Postgraduate,102994,2845
+715,475,MBA in Finance,MBA in Finance,Postgraduate,190682,1113
+716,476,MBA in Marketing,MBA in Marketing,Postgraduate,93132,1843
+717,476,MBA in Digital Marketing,MBA in Marketing,Postgraduate,186404,2309
+718,477,MBA in Business Analytics,Business Analytics,Postgraduate,80471,3286
+719,478,B.Sc in Physics,Physics,Undergraduate,103844,3436
+720,478,M.Sc in Physics,Physics,Postgraduate,202868,2502
+721,479,B.Sc in Biology,Biology,Undergraduate,73839,2590
+722,480,B.Sc in Chemistry,Chemistry,Undergraduate,166780,3812
+723,481,B.Tech in CS,Computer Science,Undergraduate,64584,2357
+724,481,M.Tech in AI,Computer Science,Postgraduate,84588,2602
+725,481,B.Sc in Data Science,Computer Science,Undergraduate,158901,2371
+726,482,B.Tech in ECE,Electronics Engineering,Undergraduate,197825,736
+727,482,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,196485,2393
+728,483,B.Tech in ME,Mechanical Engineering,Undergraduate,226362,3805
+729,483,M.Tech in Thermal,Mechanical Engineering,Postgraduate,130784,3462
+730,484,LLB,LLB,Postgraduate,55706,2121
+731,485,PG Diploma in Cyber Law,Cyber Law,Postgraduate,116704,3844
+732,486,MBBS,MBBS,Postgraduate,50790,3554
+733,487,B.Pharm,Pharmacy,Undergraduate,107121,2868
+734,487,M.Pharm,Pharmacy,Postgraduate,69144,685
+735,488,MBA in Finance,MBA in Finance,Postgraduate,161069,1911
+736,489,MBA in Marketing,MBA in Marketing,Postgraduate,233601,761
+737,489,MBA in Digital Marketing,MBA in Marketing,Postgraduate,191862,746
+738,490,MBA in Business Analytics,Business Analytics,Postgraduate,68092,2433
+739,491,B.Des in Graphic Design,Graphic Design,Undergraduate,58319,1675
+740,491,M.Des in Graphic Design,Graphic Design,Postgraduate,157182,1237
+741,492,B.Des in UX Design,UX Design,Undergraduate,85501,3636
+742,492,M.Des in UX Design,UX Design,Postgraduate,218171,3487
+743,493,B.Tech in CS,Computer Science,Undergraduate,219313,2221
+744,493,M.Tech in AI,Computer Science,Postgraduate,148162,2066
+745,493,B.Sc in Data Science,Computer Science,Undergraduate,167581,2046
+746,494,B.Tech in ECE,Electronics Engineering,Undergraduate,148473,828
+747,494,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,228973,3210
+748,495,B.Tech in ME,Mechanical Engineering,Undergraduate,191374,1044
+749,495,M.Tech in Thermal,Mechanical Engineering,Postgraduate,221320,1924
+750,496,LLB,LLB,Postgraduate,81098,1231
+751,497,PG Diploma in Cyber Law,Cyber Law,Postgraduate,190839,2109
+752,498,LLB,LLB,Postgraduate,188632,1021
+753,499,PG Diploma in Cyber Law,Cyber Law,Postgraduate,240803,1412
+754,500,B.Sc in Physics,Physics,Undergraduate,50910,3597
+755,500,M.Sc in Physics,Physics,Postgraduate,55959,1722
+756,501,B.Sc in Biology,Biology,Undergraduate,171373,3258
+757,502,B.Sc in Chemistry,Chemistry,Undergraduate,238506,2730
+758,503,B.Tech in CS,Computer Science,Undergraduate,161182,2678
+759,503,M.Tech in AI,Computer Science,Postgraduate,149425,3872
+760,503,B.Sc in Data Science,Computer Science,Undergraduate,110205,1513
+761,504,B.Tech in ECE,Electronics Engineering,Undergraduate,170750,1917
+762,504,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,90664,1629
+763,505,B.Tech in ME,Mechanical Engineering,Undergraduate,99409,3469
+764,505,M.Tech in Thermal,Mechanical Engineering,Postgraduate,79581,631
+765,506,LLB,LLB,Postgraduate,223066,2217
+766,507,PG Diploma in Cyber Law,Cyber Law,Postgraduate,211198,3637
+767,508,B.Tech in CS,Computer Science,Undergraduate,54101,1485
+768,508,M.Tech in AI,Computer Science,Postgraduate,104023,775
+769,508,B.Sc in Data Science,Computer Science,Undergraduate,76449,2932
+770,509,B.Tech in ECE,Electronics Engineering,Undergraduate,58801,2328
+771,509,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,206705,3252
+772,510,B.Tech in ME,Mechanical Engineering,Undergraduate,234362,699
+773,510,M.Tech in Thermal,Mechanical Engineering,Postgraduate,114155,3533
+774,511,B.Des in Graphic Design,Graphic Design,Undergraduate,61596,2147
+775,511,M.Des in Graphic Design,Graphic Design,Postgraduate,165071,1459
+776,512,B.Des in UX Design,UX Design,Undergraduate,191494,1389
+777,512,M.Des in UX Design,UX Design,Postgraduate,247757,3678
+778,513,B.Des in Graphic Design,Graphic Design,Undergraduate,64796,1073
+779,513,M.Des in Graphic Design,Graphic Design,Postgraduate,182093,1684
+780,514,B.Des in UX Design,UX Design,Undergraduate,111384,3841
+781,514,M.Des in UX Design,UX Design,Postgraduate,241762,2859
+782,515,B.Sc in Physics,Physics,Undergraduate,133598,2865
+783,515,M.Sc in Physics,Physics,Postgraduate,206740,3664
+784,516,B.Sc in Biology,Biology,Undergraduate,226300,3852
+785,517,B.Sc in Chemistry,Chemistry,Undergraduate,134060,1470
+786,518,B.Sc in Sports Science,Sports Science,Undergraduate,129105,1086
+787,519,B.P.Ed,Physical Education,Undergraduate,223070,2635
+788,520,MBA in Finance,MBA in Finance,Postgraduate,107945,2193
+789,521,MBA in Marketing,MBA in Marketing,Postgraduate,128774,1627
+790,521,MBA in Digital Marketing,MBA in Marketing,Postgraduate,65979,2780
+791,522,MBA in Business Analytics,Business Analytics,Postgraduate,205101,3511
+792,523,B.Sc in Physics,Physics,Undergraduate,95910,3064
+793,523,M.Sc in Physics,Physics,Postgraduate,227930,2249
+794,524,B.Sc in Biology,Biology,Undergraduate,195712,2530
+795,525,B.Sc in Chemistry,Chemistry,Undergraduate,62290,1910
+796,526,B.Tech in CS,Computer Science,Undergraduate,218641,3249
+797,526,M.Tech in AI,Computer Science,Postgraduate,149917,3718
+798,526,B.Sc in Data Science,Computer Science,Undergraduate,187484,1805
+799,527,B.Tech in ECE,Electronics Engineering,Undergraduate,232533,2205
+800,527,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,157022,1111
+801,528,B.Tech in ME,Mechanical Engineering,Undergraduate,128613,2041
+802,528,M.Tech in Thermal,Mechanical Engineering,Postgraduate,98202,3590
+803,529,LLB,LLB,Postgraduate,191014,2439
+804,530,PG Diploma in Cyber Law,Cyber Law,Postgraduate,113168,3978
+805,531,B.Sc in Sports Science,Sports Science,Undergraduate,109072,1731
+806,532,B.P.Ed,Physical Education,Undergraduate,235487,1091
+807,533,B.Sc in Physics,Physics,Undergraduate,171379,736
+808,533,M.Sc in Physics,Physics,Postgraduate,197426,2190
+809,534,B.Sc in Biology,Biology,Undergraduate,159185,2782
+810,535,B.Sc in Chemistry,Chemistry,Undergraduate,188934,1049
+811,536,B.Des in Fashion Design,Fashion Design,Undergraduate,151821,1494
+812,536,M.Des in Fashion Design,Fashion Design,Postgraduate,116845,1332
+813,537,B.Des in Textile Design,Textile Design,Undergraduate,136576,3148
+814,538,B.Sc in Physics,Physics,Undergraduate,70727,2342
+815,538,M.Sc in Physics,Physics,Postgraduate,147275,878
+816,539,B.Sc in Biology,Biology,Undergraduate,190413,3467
+817,540,B.Sc in Chemistry,Chemistry,Undergraduate,99933,711
+818,541,B.Des in Graphic Design,Graphic Design,Undergraduate,120375,2044
+819,541,M.Des in Graphic Design,Graphic Design,Postgraduate,226599,2977
+820,542,B.Des in UX Design,UX Design,Undergraduate,208052,661
+821,542,M.Des in UX Design,UX Design,Postgraduate,69079,1270
+822,543,B.Sc in Physics,Physics,Undergraduate,249674,2906
+823,543,M.Sc in Physics,Physics,Postgraduate,239872,3250
+824,544,B.Sc in Biology,Biology,Undergraduate,196499,1388
+825,545,B.Sc in Chemistry,Chemistry,Undergraduate,175670,1355
+826,546,MBBS,MBBS,Postgraduate,137284,1741
+827,547,B.Pharm,Pharmacy,Undergraduate,54019,1367
+828,547,M.Pharm,Pharmacy,Postgraduate,99813,3537
+829,548,B.Tech in CS,Computer Science,Undergraduate,80753,3559
+830,548,M.Tech in AI,Computer Science,Postgraduate,247743,2461
+831,548,B.Sc in Data Science,Computer Science,Undergraduate,113594,3349
+832,549,B.Tech in ECE,Electronics Engineering,Undergraduate,208440,3382
+833,549,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,103611,2124
+834,550,B.Tech in ME,Mechanical Engineering,Undergraduate,112739,2761
+835,550,M.Tech in Thermal,Mechanical Engineering,Postgraduate,134309,3676
+836,551,MBBS,MBBS,Postgraduate,124202,2059
+837,552,B.Pharm,Pharmacy,Undergraduate,172224,2685
+838,552,M.Pharm,Pharmacy,Postgraduate,220058,1971
+839,553,B.Des in Graphic Design,Graphic Design,Undergraduate,130851,1571
+840,553,M.Des in Graphic Design,Graphic Design,Postgraduate,144278,2600
+841,554,B.Des in UX Design,UX Design,Undergraduate,180358,2408
+842,554,M.Des in UX Design,UX Design,Postgraduate,75849,3788
+843,555,LLB,LLB,Postgraduate,239376,2423
+844,556,PG Diploma in Cyber Law,Cyber Law,Postgraduate,249656,3939
+845,557,MBBS,MBBS,Postgraduate,133947,1332
+846,558,B.Pharm,Pharmacy,Undergraduate,147178,1781
+847,558,M.Pharm,Pharmacy,Postgraduate,158509,687
+848,559,MBBS,MBBS,Postgraduate,197462,1406
+849,560,B.Pharm,Pharmacy,Undergraduate,244314,1097
+850,560,M.Pharm,Pharmacy,Postgraduate,54251,1568
+851,561,LLB,LLB,Postgraduate,195047,2892
+852,562,PG Diploma in Cyber Law,Cyber Law,Postgraduate,201818,3449
+853,563,LLB,LLB,Postgraduate,159465,1709
+854,564,PG Diploma in Cyber Law,Cyber Law,Postgraduate,89953,1303
+855,565,LLB,LLB,Postgraduate,136472,1442
+856,566,PG Diploma in Cyber Law,Cyber Law,Postgraduate,149572,2833
+857,567,B.Sc in Physics,Physics,Undergraduate,114416,2545
+858,567,M.Sc in Physics,Physics,Postgraduate,194347,3181
+859,568,B.Sc in Biology,Biology,Undergraduate,229528,1882
+860,569,B.Sc in Chemistry,Chemistry,Undergraduate,117456,3626
+861,570,B.Des in Fashion Design,Fashion Design,Undergraduate,178089,3463
+862,570,M.Des in Fashion Design,Fashion Design,Postgraduate,218216,3529
+863,571,B.Des in Textile Design,Textile Design,Undergraduate,178606,2387
+864,572,B.Des in Fashion Design,Fashion Design,Undergraduate,94101,3501
+865,572,M.Des in Fashion Design,Fashion Design,Postgraduate,142320,1193
+866,573,B.Des in Textile Design,Textile Design,Undergraduate,86689,3450
+867,574,B.Sc in Sports Science,Sports Science,Undergraduate,193273,2500
+868,575,B.P.Ed,Physical Education,Undergraduate,98247,2720
+869,576,B.Des in Fashion Design,Fashion Design,Undergraduate,218246,740
+870,576,M.Des in Fashion Design,Fashion Design,Postgraduate,187348,638
+871,577,B.Des in Textile Design,Textile Design,Undergraduate,69485,3850
+872,578,B.Des in Graphic Design,Graphic Design,Undergraduate,225168,698
+873,578,M.Des in Graphic Design,Graphic Design,Postgraduate,51673,2189
+874,579,B.Des in UX Design,UX Design,Undergraduate,86042,3951
+875,579,M.Des in UX Design,UX Design,Postgraduate,215334,1447
+876,580,B.Des in Fashion Design,Fashion Design,Undergraduate,67817,3396
+877,580,M.Des in Fashion Design,Fashion Design,Postgraduate,89591,537
+878,581,B.Des in Textile Design,Textile Design,Undergraduate,107336,2571
+879,582,B.Sc in Physics,Physics,Undergraduate,169540,2028
+880,582,M.Sc in Physics,Physics,Postgraduate,65846,3030
+881,583,B.Sc in Biology,Biology,Undergraduate,217176,3231
+882,584,B.Sc in Chemistry,Chemistry,Undergraduate,211616,2479
+883,585,B.Des in Graphic Design,Graphic Design,Undergraduate,222827,2498
+884,585,M.Des in Graphic Design,Graphic Design,Postgraduate,54123,527
+885,586,B.Des in UX Design,UX Design,Undergraduate,189516,2759
+886,586,M.Des in UX Design,UX Design,Postgraduate,157829,548
+887,587,B.Des in Fashion Design,Fashion Design,Undergraduate,54384,2668
+888,587,M.Des in Fashion Design,Fashion Design,Postgraduate,239318,1625
+889,588,B.Des in Textile Design,Textile Design,Undergraduate,190440,1674
+890,589,MBA in Finance,MBA in Finance,Postgraduate,54493,2557
+891,590,MBA in Marketing,MBA in Marketing,Postgraduate,232939,3260
+892,590,MBA in Digital Marketing,MBA in Marketing,Postgraduate,162872,3802
+893,591,MBA in Business Analytics,Business Analytics,Postgraduate,96993,938
+894,592,B.Sc in Physics,Physics,Undergraduate,75248,2647
+895,592,M.Sc in Physics,Physics,Postgraduate,89032,1487
+896,593,B.Sc in Biology,Biology,Undergraduate,100313,3038
+897,594,B.Sc in Chemistry,Chemistry,Undergraduate,188007,1533
+898,595,MBA in Finance,MBA in Finance,Postgraduate,142914,1594
+899,596,MBA in Marketing,MBA in Marketing,Postgraduate,154044,823
+900,596,MBA in Digital Marketing,MBA in Marketing,Postgraduate,147793,2163
+901,597,MBA in Business Analytics,Business Analytics,Postgraduate,170323,2814
+902,598,MBA in Finance,MBA in Finance,Postgraduate,113755,3355
+903,599,MBA in Marketing,MBA in Marketing,Postgraduate,109207,1728
+904,599,MBA in Digital Marketing,MBA in Marketing,Postgraduate,229317,3891
+905,600,MBA in Business Analytics,Business Analytics,Postgraduate,71133,3177
+906,601,MBA in Finance,MBA in Finance,Postgraduate,220365,3611
+907,602,MBA in Marketing,MBA in Marketing,Postgraduate,58305,882
+908,602,MBA in Digital Marketing,MBA in Marketing,Postgraduate,156241,2053
+909,603,MBA in Business Analytics,Business Analytics,Postgraduate,148872,2763
+910,604,LLB,LLB,Postgraduate,174781,729
+911,605,PG Diploma in Cyber Law,Cyber Law,Postgraduate,216919,538
+912,606,B.Tech in CS,Computer Science,Undergraduate,234246,1201
+913,606,M.Tech in AI,Computer Science,Postgraduate,71675,2547
+914,606,B.Sc in Data Science,Computer Science,Undergraduate,163746,3141
+915,607,B.Tech in ECE,Electronics Engineering,Undergraduate,136840,2817
+916,607,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,74998,2663
+917,608,B.Tech in ME,Mechanical Engineering,Undergraduate,61154,1441
+918,608,M.Tech in Thermal,Mechanical Engineering,Postgraduate,105421,3335
+919,609,B.Sc in Sports Science,Sports Science,Undergraduate,198579,2447
+920,610,B.P.Ed,Physical Education,Undergraduate,121065,690
+921,611,B.Sc in Sports Science,Sports Science,Undergraduate,69489,3303
+922,612,B.P.Ed,Physical Education,Undergraduate,123498,2724
+923,613,B.Des in Graphic Design,Graphic Design,Undergraduate,197720,3195
+924,613,M.Des in Graphic Design,Graphic Design,Postgraduate,58625,1234
+925,614,B.Des in UX Design,UX Design,Undergraduate,132440,564
+926,614,M.Des in UX Design,UX Design,Postgraduate,104305,2904
+927,615,MBBS,MBBS,Postgraduate,87798,3581
+928,616,B.Pharm,Pharmacy,Undergraduate,236833,3862
+929,616,M.Pharm,Pharmacy,Postgraduate,154410,815
+930,617,B.Sc in Physics,Physics,Undergraduate,128453,1165
+931,617,M.Sc in Physics,Physics,Postgraduate,197838,1484
+932,618,B.Sc in Biology,Biology,Undergraduate,198555,3918
+933,619,B.Sc in Chemistry,Chemistry,Undergraduate,152015,3273
+934,620,B.Tech in CS,Computer Science,Undergraduate,191705,1858
+935,620,M.Tech in AI,Computer Science,Postgraduate,150622,3594
+936,620,B.Sc in Data Science,Computer Science,Undergraduate,243919,1073
+937,621,B.Tech in ECE,Electronics Engineering,Undergraduate,230698,3466
+938,621,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,70559,2551
+939,622,B.Tech in ME,Mechanical Engineering,Undergraduate,245416,1916
+940,622,M.Tech in Thermal,Mechanical Engineering,Postgraduate,64076,900
+941,623,B.Des in Graphic Design,Graphic Design,Undergraduate,164580,1450
+942,623,M.Des in Graphic Design,Graphic Design,Postgraduate,69927,1895
+943,624,B.Des in UX Design,UX Design,Undergraduate,208641,3649
+944,624,M.Des in UX Design,UX Design,Postgraduate,210921,2939
+945,625,LLB,LLB,Postgraduate,153993,3668
+946,626,PG Diploma in Cyber Law,Cyber Law,Postgraduate,135557,621
+947,627,LLB,LLB,Postgraduate,216231,1619
+948,628,PG Diploma in Cyber Law,Cyber Law,Postgraduate,168109,2509
+949,629,MBA in Finance,MBA in Finance,Postgraduate,109805,1957
+950,630,MBA in Marketing,MBA in Marketing,Postgraduate,194975,2037
+951,630,MBA in Digital Marketing,MBA in Marketing,Postgraduate,163206,1260
+952,631,MBA in Business Analytics,Business Analytics,Postgraduate,228177,2899
+953,632,B.Des in Fashion Design,Fashion Design,Undergraduate,223191,2056
+954,632,M.Des in Fashion Design,Fashion Design,Postgraduate,72464,3662
+955,633,B.Des in Textile Design,Textile Design,Undergraduate,212166,1709
+956,634,LLB,LLB,Postgraduate,114605,3420
+957,635,PG Diploma in Cyber Law,Cyber Law,Postgraduate,69269,836
+958,636,B.Tech in CS,Computer Science,Undergraduate,120247,1131
+959,636,M.Tech in AI,Computer Science,Postgraduate,149614,3415
+960,636,B.Sc in Data Science,Computer Science,Undergraduate,216173,1131
+961,637,B.Tech in ECE,Electronics Engineering,Undergraduate,243896,2095
+962,637,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,133015,1977
+963,638,B.Tech in ME,Mechanical Engineering,Undergraduate,77931,874
+964,638,M.Tech in Thermal,Mechanical Engineering,Postgraduate,51361,1762
+965,639,B.Sc in Physics,Physics,Undergraduate,166584,1974
+966,639,M.Sc in Physics,Physics,Postgraduate,249582,1604
+967,640,B.Sc in Biology,Biology,Undergraduate,76799,1042
+968,641,B.Sc in Chemistry,Chemistry,Undergraduate,72884,1267
+969,642,B.Des in Fashion Design,Fashion Design,Undergraduate,162978,2338
+970,642,M.Des in Fashion Design,Fashion Design,Postgraduate,196010,2772
+971,643,B.Des in Textile Design,Textile Design,Undergraduate,184333,2171
+972,644,LLB,LLB,Postgraduate,77077,607
+973,645,PG Diploma in Cyber Law,Cyber Law,Postgraduate,73493,1949
+974,646,B.Tech in CS,Computer Science,Undergraduate,195285,881
+975,646,M.Tech in AI,Computer Science,Postgraduate,206480,2949
+976,646,B.Sc in Data Science,Computer Science,Undergraduate,135047,2077
+977,647,B.Tech in ECE,Electronics Engineering,Undergraduate,53235,1695
+978,647,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,158477,2088
+979,648,B.Tech in ME,Mechanical Engineering,Undergraduate,72203,3468
+980,648,M.Tech in Thermal,Mechanical Engineering,Postgraduate,196679,1494
+981,649,B.Des in Fashion Design,Fashion Design,Undergraduate,199935,2634
+982,649,M.Des in Fashion Design,Fashion Design,Postgraduate,94455,3307
+983,650,B.Des in Textile Design,Textile Design,Undergraduate,149806,1194
+984,651,B.Des in Fashion Design,Fashion Design,Undergraduate,86396,1601
+985,651,M.Des in Fashion Design,Fashion Design,Postgraduate,128939,1599
+986,652,B.Des in Textile Design,Textile Design,Undergraduate,179269,1097
+987,653,B.Des in Graphic Design,Graphic Design,Undergraduate,66585,1184
+988,653,M.Des in Graphic Design,Graphic Design,Postgraduate,163947,1630
+989,654,B.Des in UX Design,UX Design,Undergraduate,160389,1727
+990,654,M.Des in UX Design,UX Design,Postgraduate,176938,3705
+991,655,LLB,LLB,Postgraduate,70164,1979
+992,656,PG Diploma in Cyber Law,Cyber Law,Postgraduate,115981,1510
+993,657,LLB,LLB,Postgraduate,238979,3060
+994,658,PG Diploma in Cyber Law,Cyber Law,Postgraduate,179971,2932
+995,659,MBA in Finance,MBA in Finance,Postgraduate,211656,1300
+996,660,MBA in Marketing,MBA in Marketing,Postgraduate,170025,938
+997,660,MBA in Digital Marketing,MBA in Marketing,Postgraduate,85517,1747
+998,661,MBA in Business Analytics,Business Analytics,Postgraduate,51774,2120
+999,662,B.Sc in Sports Science,Sports Science,Undergraduate,137088,3947
+1000,663,B.P.Ed,Physical Education,Undergraduate,212579,2056
+1001,664,B.Sc in Sports Science,Sports Science,Undergraduate,136387,2303
+1002,665,B.P.Ed,Physical Education,Undergraduate,137749,2263
+1003,666,MBA in Finance,MBA in Finance,Postgraduate,220665,2934
+1004,667,MBA in Marketing,MBA in Marketing,Postgraduate,85684,1730
+1005,667,MBA in Digital Marketing,MBA in Marketing,Postgraduate,134060,2970
+1006,668,MBA in Business Analytics,Business Analytics,Postgraduate,232266,1322
+1007,669,LLB,LLB,Postgraduate,175569,1786
+1008,670,PG Diploma in Cyber Law,Cyber Law,Postgraduate,96566,2131
+1009,671,B.Des in Fashion Design,Fashion Design,Undergraduate,133660,1693
+1010,671,M.Des in Fashion Design,Fashion Design,Postgraduate,242642,3346
+1011,672,B.Des in Textile Design,Textile Design,Undergraduate,215911,2511
+1012,673,B.Tech in CS,Computer Science,Undergraduate,200963,3702
+1013,673,M.Tech in AI,Computer Science,Postgraduate,113550,1834
+1014,673,B.Sc in Data Science,Computer Science,Undergraduate,148580,1648
+1015,674,B.Tech in ECE,Electronics Engineering,Undergraduate,153005,1995
+1016,674,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,79855,2809
+1017,675,B.Tech in ME,Mechanical Engineering,Undergraduate,102376,2925
+1018,675,M.Tech in Thermal,Mechanical Engineering,Postgraduate,193033,1236
+1019,676,MBBS,MBBS,Postgraduate,228706,3644
+1020,677,B.Pharm,Pharmacy,Undergraduate,194205,610
+1021,677,M.Pharm,Pharmacy,Postgraduate,240634,2390
+1022,678,LLB,LLB,Postgraduate,235694,1358
+1023,679,PG Diploma in Cyber Law,Cyber Law,Postgraduate,164938,3767
+1024,680,B.Tech in CS,Computer Science,Undergraduate,126370,3904
+1025,680,M.Tech in AI,Computer Science,Postgraduate,231622,783
+1026,680,B.Sc in Data Science,Computer Science,Undergraduate,157254,3256
+1027,681,B.Tech in ECE,Electronics Engineering,Undergraduate,180889,1070
+1028,681,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,216025,1740
+1029,682,B.Tech in ME,Mechanical Engineering,Undergraduate,113444,1534
+1030,682,M.Tech in Thermal,Mechanical Engineering,Postgraduate,222664,1131
+1031,683,MBA in Finance,MBA in Finance,Postgraduate,237494,2233
+1032,684,MBA in Marketing,MBA in Marketing,Postgraduate,148825,802
+1033,684,MBA in Digital Marketing,MBA in Marketing,Postgraduate,167720,2949
+1034,685,MBA in Business Analytics,Business Analytics,Postgraduate,175628,2884
+1035,686,B.Des in Graphic Design,Graphic Design,Undergraduate,155068,2688
+1036,686,M.Des in Graphic Design,Graphic Design,Postgraduate,182805,3333
+1037,687,B.Des in UX Design,UX Design,Undergraduate,159655,2726
+1038,687,M.Des in UX Design,UX Design,Postgraduate,59637,3738
+1039,688,B.Sc in Sports Science,Sports Science,Undergraduate,144248,3373
+1040,689,B.P.Ed,Physical Education,Undergraduate,190746,2932
+1041,690,MBA in Finance,MBA in Finance,Postgraduate,217295,848
+1042,691,MBA in Marketing,MBA in Marketing,Postgraduate,78670,3649
+1043,691,MBA in Digital Marketing,MBA in Marketing,Postgraduate,115072,3193
+1044,692,MBA in Business Analytics,Business Analytics,Postgraduate,224245,1954
+1045,693,B.Tech in CS,Computer Science,Undergraduate,93604,3150
+1046,693,M.Tech in AI,Computer Science,Postgraduate,210609,681
+1047,693,B.Sc in Data Science,Computer Science,Undergraduate,197644,3142
+1048,694,B.Tech in ECE,Electronics Engineering,Undergraduate,227595,3149
+1049,694,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,154757,3582
+1050,695,B.Tech in ME,Mechanical Engineering,Undergraduate,136926,3761
+1051,695,M.Tech in Thermal,Mechanical Engineering,Postgraduate,162841,933
+1052,696,B.Sc in Physics,Physics,Undergraduate,52765,903
+1053,696,M.Sc in Physics,Physics,Postgraduate,117826,1409
+1054,697,B.Sc in Biology,Biology,Undergraduate,183870,3559
+1055,698,B.Sc in Chemistry,Chemistry,Undergraduate,185999,2785
+1056,699,B.Des in Fashion Design,Fashion Design,Undergraduate,202179,3316
+1057,699,M.Des in Fashion Design,Fashion Design,Postgraduate,200794,1405
+1058,700,B.Des in Textile Design,Textile Design,Undergraduate,166858,2032
+1059,701,B.Sc in Sports Science,Sports Science,Undergraduate,152533,2396
+1060,702,B.P.Ed,Physical Education,Undergraduate,228141,2910
+1061,703,B.Sc in Physics,Physics,Undergraduate,230993,2549
+1062,703,M.Sc in Physics,Physics,Postgraduate,89516,1912
+1063,704,B.Sc in Biology,Biology,Undergraduate,56438,2477
+1064,705,B.Sc in Chemistry,Chemistry,Undergraduate,77406,1710
+1065,706,B.Tech in CS,Computer Science,Undergraduate,159045,851
+1066,706,M.Tech in AI,Computer Science,Postgraduate,80426,3905
+1067,706,B.Sc in Data Science,Computer Science,Undergraduate,241404,1080
+1068,707,B.Tech in ECE,Electronics Engineering,Undergraduate,141312,1777
+1069,707,M.Tech in Embedded Systems,Electronics Engineering,Postgraduate,139932,2365
+1070,708,B.Tech in ME,Mechanical Engineering,Undergraduate,104229,2634
+1071,708,M.Tech in Thermal,Mechanical Engineering,Postgraduate,176596,1926
+1072,709,B.Des in Graphic Design,Graphic Design,Undergraduate,174823,899
+1073,709,M.Des in Graphic Design,Graphic Design,Postgraduate,164862,3457
+1074,710,B.Des in UX Design,UX Design,Undergraduate,232652,2353
+1075,710,M.Des in UX Design,UX Design,Postgraduate,133600,775
+1076,711,MBBS,MBBS,Postgraduate,128712,683
+1077,712,B.Pharm,Pharmacy,Undergraduate,236326,971
+1078,712,M.Pharm,Pharmacy,Postgraduate,55920,3978
+1079,713,B.Des in Fashion Design,Fashion Design,Undergraduate,139935,3154
+1080,713,M.Des in Fashion Design,Fashion Design,Postgraduate,78668,3273
+1081,714,B.Des in Textile Design,Textile Design,Undergraduate,93084,3533
+1082,715,B.Des in Graphic Design,Graphic Design,Undergraduate,113940,2613
+1083,715,M.Des in Graphic Design,Graphic Design,Postgraduate,95731,2760
+1084,716,B.Des in UX Design,UX Design,Undergraduate,91978,1855
+1085,716,M.Des in UX Design,UX Design,Postgraduate,196761,2246
+1086,717,MBA in Finance,MBA in Finance,Postgraduate,171124,1449
+1087,718,MBA in Marketing,MBA in Marketing,Postgraduate,156180,3079
+1088,718,MBA in Digital Marketing,MBA in Marketing,Postgraduate,98352,1263
+1089,719,MBA in Business Analytics,Business Analytics,Postgraduate,217897,3192

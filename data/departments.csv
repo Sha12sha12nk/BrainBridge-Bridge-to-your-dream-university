@@ -1,0 +1,720 @@
+department_id,university_id,department_name,school_name,required_subjects,image_path
+1,1,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+2,1,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+3,1,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+4,2,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+5,2,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+6,3,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+7,3,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+8,3,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+9,4,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+10,4,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+11,4,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+12,5,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+13,5,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+14,5,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+15,6,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+16,6,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+17,7,LLB,School of Law,"Maths",images/law_school.jpg
+18,7,Cyber Law,School of Law,Any,images/law_school.jpg
+19,8,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+20,8,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+21,9,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+22,9,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+23,10,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+24,10,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+25,11,LLB,School of Law,Any,images/law_school.jpg
+26,11,Cyber Law,School of Law,Any,images/law_school.jpg
+27,12,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+28,12,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+29,12,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+30,13,LLB,School of Law,Any,images/law_school.jpg
+31,13,Cyber Law,School of Law,Any,images/law_school.jpg
+32,14,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+33,14,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+34,15,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+35,15,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+36,16,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+37,16,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+38,16,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+39,17,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+40,17,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+41,18,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+42,18,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+43,19,Graphic Design,School of Design,Arts,images/design_school.jpg
+44,19,UX Design,School of Design,Arts,images/design_school.jpg
+45,20,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+46,20,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+47,20,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+48,21,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+49,21,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+50,22,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+51,22,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+52,22,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+53,23,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+54,23,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+55,23,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+56,24,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+57,24,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+58,24,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+59,25,LLB,School of Law,Any,images/law_school.jpg
+60,25,Cyber Law,School of Law,Any,images/law_school.jpg
+61,26,LLB,School of Law,Any,images/law_school.jpg
+62,26,Cyber Law,School of Law,Any,images/law_school.jpg
+63,27,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+64,27,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+65,28,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+66,28,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+67,28,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+68,29,Graphic Design,School of Design,Arts,images/design_school.jpg
+69,29,UX Design,School of Design,Arts,images/design_school.jpg
+70,30,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+71,30,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+72,30,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+73,31,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+74,31,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+75,31,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+76,32,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+77,32,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+78,32,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+79,33,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+80,33,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+81,34,Graphic Design,School of Design,Arts,images/design_school.jpg
+82,34,UX Design,School of Design,Arts,images/design_school.jpg
+83,35,LLB,School of Law,Any,images/law_school.jpg
+84,35,Cyber Law,School of Law,Any,images/law_school.jpg
+85,36,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+86,36,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+87,36,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+88,37,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+89,37,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+90,38,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+91,38,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+92,39,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+93,39,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+94,40,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+95,40,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+96,41,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+97,41,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+98,41,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+99,42,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+100,42,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+101,42,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+102,43,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+103,43,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+104,44,LLB,School of Law,Any,images/law_school.jpg
+105,44,Cyber Law,School of Law,Any,images/law_school.jpg
+106,45,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+107,45,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+108,45,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+109,46,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+110,46,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+111,46,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+112,47,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+113,47,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+114,48,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+115,48,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+116,48,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+117,49,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+118,49,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+119,49,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+120,50,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+121,50,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+122,51,Graphic Design,School of Design,Arts,images/design_school.jpg
+123,51,UX Design,School of Design,Arts,images/design_school.jpg
+124,52,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+125,52,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+126,52,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+127,53,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+128,53,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+129,53,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+130,54,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+131,54,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+132,55,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+133,55,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+134,55,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+135,56,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+136,56,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+137,57,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+138,57,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+139,58,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+140,58,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+141,59,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+142,59,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+143,60,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+144,60,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+145,60,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+146,61,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+147,61,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+148,62,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+149,62,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+150,62,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+151,63,Graphic Design,School of Design,Arts,images/design_school.jpg
+152,63,UX Design,School of Design,Arts,images/design_school.jpg
+153,64,LLB,School of Law,Any,images/law_school.jpg
+154,64,Cyber Law,School of Law,Any,images/law_school.jpg
+155,65,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+156,65,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+157,65,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+158,66,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+159,66,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+160,67,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+161,67,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+162,68,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+163,68,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+164,68,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+165,69,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+166,69,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+167,69,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+168,70,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+169,70,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+170,70,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+171,71,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+172,71,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+173,72,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+174,72,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+175,72,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+176,73,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+177,73,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+178,74,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+179,74,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+180,75,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+181,75,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+182,76,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+183,76,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+184,76,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+185,77,LLB,School of Law,Any,images/law_school.jpg
+186,77,Cyber Law,School of Law,Any,images/law_school.jpg
+187,78,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+188,78,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+189,79,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+190,79,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+191,79,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+192,80,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+193,80,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+194,80,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+195,81,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+196,81,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+197,81,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+198,82,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+199,82,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+200,82,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+201,83,LLB,School of Law,Any,images/law_school.jpg
+202,83,Cyber Law,School of Law,Any,images/law_school.jpg
+203,84,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+204,84,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+205,85,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+206,85,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+207,85,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+208,86,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+209,86,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+210,87,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+211,87,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+212,88,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+213,88,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+214,88,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+215,89,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+216,89,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+217,89,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+218,90,Graphic Design,School of Design,Arts,images/design_school.jpg
+219,90,UX Design,School of Design,Arts,images/design_school.jpg
+220,91,Graphic Design,School of Design,Arts,images/design_school.jpg
+221,91,UX Design,School of Design,Arts,images/design_school.jpg
+222,92,LLB,School of Law,Any,images/law_school.jpg
+223,92,Cyber Law,School of Law,Any,images/law_school.jpg
+224,93,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+225,93,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+226,94,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+227,94,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+228,95,Graphic Design,School of Design,Arts,images/design_school.jpg
+229,95,UX Design,School of Design,Arts,images/design_school.jpg
+230,96,Graphic Design,School of Design,Arts,images/design_school.jpg
+231,96,UX Design,School of Design,Arts,images/design_school.jpg
+232,97,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+233,97,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+234,98,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+235,98,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+236,98,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+237,99,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+238,99,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+239,100,LLB,School of Law,Any,images/law_school.jpg
+240,100,Cyber Law,School of Law,Any,images/law_school.jpg
+241,101,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+242,101,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+243,102,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+244,102,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+245,102,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+246,103,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+247,103,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+248,104,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+249,104,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+250,104,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+251,105,LLB,School of Law,Any,images/law_school.jpg
+252,105,Cyber Law,School of Law,Any,images/law_school.jpg
+253,106,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+254,106,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+255,107,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+256,107,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+257,107,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+258,108,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+259,108,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+260,108,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+261,109,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+262,109,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+263,110,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+264,110,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+265,111,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+266,111,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+267,111,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+268,112,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+269,112,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+270,113,LLB,School of Law,Any,images/law_school.jpg
+271,113,Cyber Law,School of Law,Any,images/law_school.jpg
+272,114,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+273,114,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+274,115,LLB,School of Law,Any,images/law_school.jpg
+275,115,Cyber Law,School of Law,Any,images/law_school.jpg
+276,116,LLB,School of Law,Any,images/law_school.jpg
+277,116,Cyber Law,School of Law,Any,images/law_school.jpg
+278,117,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+279,117,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+280,118,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+281,118,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+282,119,Graphic Design,School of Design,Arts,images/design_school.jpg
+283,119,UX Design,School of Design,Arts,images/design_school.jpg
+284,120,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+285,120,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+286,121,LLB,School of Law,Any,images/law_school.jpg
+287,121,Cyber Law,School of Law,Any,images/law_school.jpg
+288,122,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+289,122,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+290,122,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+291,123,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+292,123,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+293,123,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+294,124,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+295,124,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+296,125,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+297,125,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+298,126,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+299,126,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+300,126,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+301,127,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+302,127,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+303,127,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+304,128,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+305,128,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+306,128,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+307,129,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+308,129,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+309,130,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+310,130,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+311,130,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+312,131,LLB,School of Law,Any,images/law_school.jpg
+313,131,Cyber Law,School of Law,Any,images/law_school.jpg
+314,132,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+315,132,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+316,132,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+317,133,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+318,133,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+319,133,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+320,134,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+321,134,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+322,135,Graphic Design,School of Design,Arts,images/design_school.jpg
+323,135,UX Design,School of Design,Arts,images/design_school.jpg
+324,136,Graphic Design,School of Design,Arts,images/design_school.jpg
+325,136,UX Design,School of Design,Arts,images/design_school.jpg
+326,137,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+327,137,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+328,138,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+329,138,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+330,138,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+331,139,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+332,139,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+333,139,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+334,140,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+335,140,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+336,140,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+337,141,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+338,141,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+339,142,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+340,142,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+341,143,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+342,143,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+343,143,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+344,144,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+345,144,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+346,145,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+347,145,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+348,145,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+349,146,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+350,146,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+351,147,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+352,147,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+353,147,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+354,148,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+355,148,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+356,149,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+357,149,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+358,150,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+359,150,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+360,150,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+361,151,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+362,151,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+363,151,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+364,152,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+365,152,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+366,152,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+367,153,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+368,153,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+369,154,Graphic Design,School of Design,Arts,images/design_school.jpg
+370,154,UX Design,School of Design,Arts,images/design_school.jpg
+371,155,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+372,155,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+373,156,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+374,156,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+375,157,Graphic Design,School of Design,Arts,images/design_school.jpg
+376,157,UX Design,School of Design,Arts,images/design_school.jpg
+377,158,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+378,158,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+379,158,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+380,159,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+381,159,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+382,160,LLB,School of Law,Any,images/law_school.jpg
+383,160,Cyber Law,School of Law,Any,images/law_school.jpg
+384,161,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+385,161,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+386,161,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+387,162,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+388,162,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+389,163,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+390,163,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+391,164,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+392,164,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+393,165,Graphic Design,School of Design,Arts,images/design_school.jpg
+394,165,UX Design,School of Design,Arts,images/design_school.jpg
+395,166,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+396,166,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+397,166,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+398,167,LLB,School of Law,Any,images/law_school.jpg
+399,167,Cyber Law,School of Law,Any,images/law_school.jpg
+400,168,LLB,School of Law,Any,images/law_school.jpg
+401,168,Cyber Law,School of Law,Any,images/law_school.jpg
+402,169,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+403,169,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+404,169,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+405,170,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+406,170,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+407,170,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+408,171,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+409,171,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+410,171,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+411,172,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+412,172,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+413,173,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+414,173,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+415,173,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+416,174,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+417,174,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+418,175,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+419,175,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+420,176,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+421,176,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+422,176,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+423,177,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+424,177,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+425,178,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+426,178,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+427,179,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+428,179,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+429,180,LLB,School of Law,Any,images/law_school.jpg
+430,180,Cyber Law,School of Law,Any,images/law_school.jpg
+431,181,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+432,181,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+433,182,Graphic Design,School of Design,Arts,images/design_school.jpg
+434,182,UX Design,School of Design,Arts,images/design_school.jpg
+435,183,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+436,183,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+437,183,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+438,184,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+439,184,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+440,185,Graphic Design,School of Design,Arts,images/design_school.jpg
+441,185,UX Design,School of Design,Arts,images/design_school.jpg
+442,186,Graphic Design,School of Design,Arts,images/design_school.jpg
+443,186,UX Design,School of Design,Arts,images/design_school.jpg
+444,187,LLB,School of Law,Any,images/law_school.jpg
+445,187,Cyber Law,School of Law,Any,images/law_school.jpg
+446,188,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+447,188,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+448,188,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+449,189,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+450,189,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+451,189,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+452,190,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+453,190,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+454,190,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+455,191,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+456,191,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+457,191,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+458,192,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+459,192,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+460,192,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+461,193,LLB,School of Law,Any,images/law_school.jpg
+462,193,Cyber Law,School of Law,Any,images/law_school.jpg
+463,194,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+464,194,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+465,195,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+466,195,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+467,196,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+468,196,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+469,197,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+470,197,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+471,197,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+472,198,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+473,198,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+474,198,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+475,199,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+476,199,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+477,199,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+478,200,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+479,200,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+480,200,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+481,201,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+482,201,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+483,201,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+484,202,LLB,School of Law,Any,images/law_school.jpg
+485,202,Cyber Law,School of Law,Any,images/law_school.jpg
+486,203,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+487,203,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+488,204,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+489,204,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+490,204,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+491,205,Graphic Design,School of Design,Arts,images/design_school.jpg
+492,205,UX Design,School of Design,Arts,images/design_school.jpg
+493,206,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+494,206,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+495,206,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+496,207,LLB,School of Law,Any,images/law_school.jpg
+497,207,Cyber Law,School of Law,Any,images/law_school.jpg
+498,208,LLB,School of Law,Any,images/law_school.jpg
+499,208,Cyber Law,School of Law,Any,images/law_school.jpg
+500,209,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+501,209,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+502,209,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+503,210,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+504,210,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+505,210,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+506,211,LLB,School of Law,Any,images/law_school.jpg
+507,211,Cyber Law,School of Law,Any,images/law_school.jpg
+508,212,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+509,212,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+510,212,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+511,213,Graphic Design,School of Design,Arts,images/design_school.jpg
+512,213,UX Design,School of Design,Arts,images/design_school.jpg
+513,214,Graphic Design,School of Design,Arts,images/design_school.jpg
+514,214,UX Design,School of Design,Arts,images/design_school.jpg
+515,215,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+516,215,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+517,215,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+518,216,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+519,216,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+520,217,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+521,217,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+522,217,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+523,218,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+524,218,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+525,218,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+526,219,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+527,219,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+528,219,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+529,220,LLB,School of Law,Any,images/law_school.jpg
+530,220,Cyber Law,School of Law,Any,images/law_school.jpg
+531,221,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+532,221,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+533,222,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+534,222,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+535,222,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+536,223,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+537,223,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+538,224,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+539,224,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+540,224,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+541,225,Graphic Design,School of Design,Arts,images/design_school.jpg
+542,225,UX Design,School of Design,Arts,images/design_school.jpg
+543,226,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+544,226,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+545,226,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+546,227,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+547,227,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+548,228,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+549,228,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+550,228,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+551,229,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+552,229,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+553,230,Graphic Design,School of Design,Arts,images/design_school.jpg
+554,230,UX Design,School of Design,Arts,images/design_school.jpg
+555,231,LLB,School of Law,Any,images/law_school.jpg
+556,231,Cyber Law,School of Law,Any,images/law_school.jpg
+557,232,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+558,232,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+559,233,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+560,233,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+561,234,LLB,School of Law,Any,images/law_school.jpg
+562,234,Cyber Law,School of Law,Any,images/law_school.jpg
+563,235,LLB,School of Law,Any,images/law_school.jpg
+564,235,Cyber Law,School of Law,Any,images/law_school.jpg
+565,236,LLB,School of Law,Any,images/law_school.jpg
+566,236,Cyber Law,School of Law,Any,images/law_school.jpg
+567,237,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+568,237,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+569,237,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+570,238,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+571,238,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+572,239,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+573,239,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+574,240,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+575,240,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+576,241,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+577,241,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+578,242,Graphic Design,School of Design,Arts,images/design_school.jpg
+579,242,UX Design,School of Design,Arts,images/design_school.jpg
+580,243,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+581,243,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+582,244,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+583,244,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+584,244,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+585,245,Graphic Design,School of Design,Arts,images/design_school.jpg
+586,245,UX Design,School of Design,Arts,images/design_school.jpg
+587,246,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+588,246,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+589,247,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+590,247,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+591,247,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+592,248,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+593,248,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+594,248,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+595,249,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+596,249,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+597,249,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+598,250,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+599,250,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+600,250,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+601,251,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+602,251,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+603,251,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+604,252,LLB,School of Law,Any,images/law_school.jpg
+605,252,Cyber Law,School of Law,Any,images/law_school.jpg
+606,253,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+607,253,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+608,253,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+609,254,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+610,254,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+611,255,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+612,255,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+613,256,Graphic Design,School of Design,Arts,images/design_school.jpg
+614,256,UX Design,School of Design,Arts,images/design_school.jpg
+615,257,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+616,257,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+617,258,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+618,258,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+619,258,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+620,259,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+621,259,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+622,259,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+623,260,Graphic Design,School of Design,Arts,images/design_school.jpg
+624,260,UX Design,School of Design,Arts,images/design_school.jpg
+625,261,LLB,School of Law,Any,images/law_school.jpg
+626,261,Cyber Law,School of Law,Any,images/law_school.jpg
+627,262,LLB,School of Law,Any,images/law_school.jpg
+628,262,Cyber Law,School of Law,Any,images/law_school.jpg
+629,263,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+630,263,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+631,263,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+632,264,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+633,264,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+634,265,LLB,School of Law,Any,images/law_school.jpg
+635,265,Cyber Law,School of Law,Any,images/law_school.jpg
+636,266,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+637,266,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+638,266,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+639,267,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+640,267,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+641,267,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+642,268,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+643,268,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+644,269,LLB,School of Law,Any,images/law_school.jpg
+645,269,Cyber Law,School of Law,Any,images/law_school.jpg
+646,270,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+647,270,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+648,270,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+649,271,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+650,271,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+651,272,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+652,272,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+653,273,Graphic Design,School of Design,Arts,images/design_school.jpg
+654,273,UX Design,School of Design,Arts,images/design_school.jpg
+655,274,LLB,School of Law,Any,images/law_school.jpg
+656,274,Cyber Law,School of Law,Any,images/law_school.jpg
+657,275,LLB,School of Law,Any,images/law_school.jpg
+658,275,Cyber Law,School of Law,Any,images/law_school.jpg
+659,276,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+660,276,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+661,276,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+662,277,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+663,277,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+664,278,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+665,278,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+666,279,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+667,279,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+668,279,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+669,280,LLB,School of Law,Any,images/law_school.jpg
+670,280,Cyber Law,School of Law,Any,images/law_school.jpg
+671,281,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+672,281,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+673,282,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+674,282,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+675,282,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+676,283,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+677,283,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+678,284,LLB,School of Law,Any,images/law_school.jpg
+679,284,Cyber Law,School of Law,Any,images/law_school.jpg
+680,285,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+681,285,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+682,285,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+683,286,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+684,286,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+685,286,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+686,287,Graphic Design,School of Design,Arts,images/design_school.jpg
+687,287,UX Design,School of Design,Arts,images/design_school.jpg
+688,288,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+689,288,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+690,289,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+691,289,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+692,289,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
+693,290,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+694,290,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+695,290,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+696,291,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+697,291,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+698,291,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+699,292,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+700,292,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+701,293,Sports Science,School of Sports,"Biology,PE",images/sports_school.jpg
+702,293,Physical Education,School of Sports,"Biology,PE",images/sports_school.jpg
+703,294,Physics,School of Science,"Maths,Biology",images/science_school.jpg
+704,294,Biology,School of Science,"Maths,Biology",images/science_school.jpg
+705,294,Chemistry,School of Science,"Maths,Biology",images/science_school.jpg
+706,295,Computer Science,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+707,295,Electronics Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+708,295,Mechanical Engineering,School of Engineering,"Maths,Physics,Chemistry",images/engineering_school.jpg
+709,296,Graphic Design,School of Design,Arts,images/design_school.jpg
+710,296,UX Design,School of Design,Arts,images/design_school.jpg
+711,297,MBBS,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+712,297,Pharmacy,School of Medicine,"Physics,Chemistry,Biology",images/medical_school.jpg
+713,298,Fashion Design,School of Fashion,Arts,images/fashion_school.jpg
+714,298,Textile Design,School of Fashion,Arts,images/fashion_school.jpg
+715,299,Graphic Design,School of Design,Arts,images/design_school.jpg
+716,299,UX Design,School of Design,Arts,images/design_school.jpg
+717,300,MBA in Finance,School of Management,"Commerce,Maths",images/management_school.jpg
+718,300,MBA in Marketing,School of Management,"Commerce,Maths",images/management_school.jpg
+719,300,Business Analytics,School of Management,"Commerce,Maths",images/management_school.jpg
